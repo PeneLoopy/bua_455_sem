@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.25">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>BUA 455</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-b654365ec9f6baf3fdeb64dbed93b847.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-dark-b654365ec9f6baf3fdeb64dbed93b847.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-b654365ec9f6baf3fdeb64dbed93b847.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-dashboard/quarto-dashboard.js"></script>
+<script src="site_libs/quarto-dashboard/stickythead.js"></script>
+
+
+
+<script src="site_libs/quarto-dashboard/web-components.js" type="module"></script>
+<script src="site_libs/quarto-dashboard/components.js"></script>
+
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="quarto-dashboard nav-fixed dashboard-fill fullcontent quarto-light">
+
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">BUA 455</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">This website provides semester-long access to BUA 455 lecture slides, notes, and R code files, regardless of access to Blackboard.</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+<header id="quarto-dashboard-header">
+<nav class="navbar navbar-expand-md slim" data-bs-theme="dark">
+  <div class="navbar-container container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-controls="dashboard-collapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>    
+
+
+    <div class="navbar-brand-container">
+
+
+      <div class="navbar-title">
+        
+        
+        
+      </div>
+    </div>
+<div id="dashboard-collapse" class="navbar-collapse collapse"><ul class="navbar-nav navbar-nav-scroll me-auto" role="tablist"><li class="nav-item" role="presentation"><a id="tab-syllabus-and-course-links" class="nav-link active" data-bs-toggle="tab" role="tab" data-bs-target="#syllabus-and-course-links" data-scrolling="false" href="#syllabus-and-course-links" aria-controls="syllabus-and-course-links" aria-selected="true"><span class="nav-link-text">Syllabus and Course Links</span></a></li><li class="nav-item" role="presentation"><a id="tab-lecture-material" class="nav-link" data-bs-toggle="tab" role="tab" data-bs-target="#lecture-material" data-scrolling="false" href="#lecture-material" aria-controls="lecture-material" aria-selected="false"><span class="nav-link-text">Lecture Material</span></a></li><li class="nav-item" role="presentation"><a id="tab-homework-assignments" class="nav-link" data-bs-toggle="tab" role="tab" data-bs-target="#homework-assignments" data-scrolling="false" href="#homework-assignments" aria-controls="homework-assignments" aria-selected="false"><span class="nav-link-text">Homework Assignments</span></a></li><li class="nav-item" role="presentation"><a id="tab-dashboard-project" class="nav-link" data-bs-toggle="tab" role="tab" data-bs-target="#dashboard-project" data-scrolling="false" href="#dashboard-project" aria-controls="dashboard-project" aria-selected="false"><span class="nav-link-text">Dashboard Project</span></a></li><li class="nav-item" role="presentation"><a id="tab-interesting-data" class="nav-link" data-bs-toggle="tab" role="tab" data-bs-target="#interesting-data" data-scrolling="false" href="#interesting-data" aria-controls="interesting-data" aria-selected="false"><span class="nav-link-text">Interesting Data</span></a></li><li class="nav-item" role="presentation"><a id="tab-dashboard-examples" class="nav-link" data-bs-toggle="tab" role="tab" data-bs-target="#dashboard-examples" data-scrolling="false" href="#dashboard-examples" aria-controls="dashboard-examples" aria-selected="false"><span class="nav-link-text">Dashboard Examples</span></a></li><li class="nav-item" role="presentation"><a id="tab-project-component-examples" class="nav-link" data-bs-toggle="tab" role="tab" data-bs-target="#project-component-examples" data-scrolling="false" href="#project-component-examples" aria-controls="project-component-examples" aria-selected="false"><span class="nav-link-text">Project Component Examples</span></a></li></ul></div></div>
+</nav>
+</header></header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-layout-custom page-navbar quarto-dashboard-content bslib-gap-spacing html-fill-container bslib-page-fill quarto-dashboard-pages">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+<!-- main -->
+
+<div class="bslib-grid-item html-fill-item tab-content bslib-grid" data-layout="fill" style="display: grid; grid-template-rows: minmax(3em, 1fr); grid-auto-columns: minmax(0, 1fr);">
+<div id="syllabus-and-course-links" class="dashboard-page tab-pane show active html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-syllabus-and-course-links">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, 30fr) minmax(3em, 70fr); grid-auto-columns: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr) minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<strong>Professor Pooler (pspooler@syr.edu) - Office: WSOM Room 518</strong>
+<ul>
+<li>In-Person Hours: Tue. Thu. 3:30 PM - 4:30 PM</li>
+<li>Zoom Hours: Mon. Wed. 4:30 PM - 5:30 PM - <a href="https://syracuseuniversity.zoom.us/j/96889308509" target="_blank"><strong>Zoom Hrs. Link</strong></a></li>
+<li>Also available by appointment on Zoom or in-person</li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div><div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<strong>Teaching Assistants: Available by Appt.</strong>
+<ul>
+<li><p>Aditya Adkar - <code>aaadkar@syr.edu</code></p></li>
+<li><p>Arjun Pendharkar - <code>apendhar@syr.edu</code></p></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<a href="https://docs.google.com/document/d/1JUHyaWnGifw-f6i5rXJFKOIU0yhdBbL1MKCg1FxbQHY/edit?usp=sharing" target="_blank"><strong>Fall 2025 Syllabus</strong></a>
+<ul>
+<li>NOTE: The order of the material varies slightly between semesters so the subjects covered in the syllabus may be updated as the semester progresses. I will always let you know if there are substantial changes.</li>
+</ul>
+<a href="https://forms.gle/kuZi7aoLyEcBhqfK8" target="_blank"><strong>Fall 2025 Absence Explanation Form</strong></a>
+<ul>
+<li>If you are absent or have a temporary technical issue with POLL EVERYWHERE, use this Google form to explain.</li>
+</ul>
+<a href="https://blackboard.syracuse.edu/ultra/courses/_553315_1/outline" target="_blank"><strong>Fall 2025 BUA 455 Blackboard Site</strong></a>
+<ul>
+<li>Engagement Questions, Assignments, and Tests will be submitted on Blackboard.</li>
+</ul>
+<a href="https://drive.google.com/file/d/1Beg58FM6cPvPc_8s5eHXWELkXcE3qiVj/view?usp=sharing" target="_blank"><strong>White Paper about Analytics Skillset</strong></a>
+<ul>
+<li><p>Starting on page 8 (10th document page), this paper provides specific language about different roles in data analytics.</p></li>
+<li><p>This section may be helpful as you try to explain your skillset in interviews.</p></li>
+</ul>
+<a href="https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=url-share" target="_blank"><strong>Read this letter about AI</strong></a>
+<ul>
+<li><p>Using AI in coding and writing is commonplace and helpful if used cautiously and ethically.</p></li>
+<li><p>This is a great ‘letter’ from a high school student who ‘broke up’ with AI because she felt it was supplanting her own voice. It’s worth your time to read and consider it.</p></li>
+</ul>
+<a href="https://penelope2040.quarto.pub/bua-455/" target="_blank"><strong>Permananent BUA 455 Website</strong></a>
+<ul>
+<li><p>This link provides permanent access to the most recent lecture slides, notes, and R projects after the semester has ended.</p></li>
+<li><p>Homework assignments, practice questions, and project information are not included on the permanent site.</p></li>
+</ul>
+<strong>Required Software Links</strong>
+<ul>
+<li><p><a href="https://cran.r-project.org/" target="_blank">R</a> - Required all semester</p></li>
+<li><p><a href="https://posit.co/download/rstudio-desktop/" target="_blank">RStudio</a> - Required all semester</p></li>
+<li><p><a href="https://quarto.org/docs/get-started/" target="_blank">Quarto</a> - Required after HW 1</p></li>
+<li><p><a href="https://posit.cloud/" target="_blank">Posit Cloud</a> - Required after Fall Break but can be used sooner if needed.</p>
+<ul>
+<li><a href="https://posit.cloud/plans" target="_blank">Student Subscription required for project after Fall Break</a>.</li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://rpubs.com/" target="_blank">RPubs</a> - Required after Quiz 2</li>
+</ul>
+<strong>Software Training</strong>
+<ul>
+<li><p><a href="https://linkedinlearning.syr.edu/" target="_blank">LinkedIn Learning</a> - Free for Syracuse University Students, Staff, and Faculty</p>
+<ul>
+<li><a href="https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization?u=76816226" target="_blank">R for Data Science: Analysis and Visualization</a>
+<ul>
+<li>This training is optional and provides a good introduction to R and RStudion whch are used in this course.</li>
+</ul></li>
+<li><a href="https://www.linkedin.com/learning/python-essential-training-18764650?u=76816226" target="_blank">Python Essential Training</a>
+<ul>
+<li>Python is not used in this course but it is helpful for Analytics and Data Science.</li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://www.datacamp.com/" target="_blank">DataCamp</a>
+<ul>
+<li>An excellent (but not free) online learning center for many software packages. Costs can be subsidized (see below).</li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://whitman.syracuse.edu/experiential-learning/wire-initiative" target="_blank">Whitman WIRE Initiative</a>
+<ul>
+<li><p>The WIRE initiative will subsidize costs of online software training the results in certification.</p></li>
+<li><p>Contact their office to arrange a meeting and develop a plan.</p></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://opensource.syracuse.edu/" target="_blank">SU Open Source Program Office (OSPO)</a>
+<ul>
+<li>OSPO offers workshops in open source software such as R/RStudio, Python, Github and facilitates communication between open source software users on campus.</li>
+</ul></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+</div>
+<div id="lecture-material" class="dashboard-page tab-pane grid-skip html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-lecture-material">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<a href="https://pollev.com/penelopepoolereisenbies685" target="_blank" style="color: lightgreen"><strong><em>Poll Everywhere</em></strong></a>
+<p>My User Name: <strong>penelopepoolereisenbies685</strong></p>
+<br>
+<ul>
+<li><strong>Weeks 7 and 8: Time Series, Data Formats, Output Formats, Project Introduction</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1353094" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1353093" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/13OBgmaHwZD7_6IFkArX-LJS9yWXvGLzH/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1JzzN90M6YudvnUUEY7qxxIWHHlVJUPxZ/view?usp=sharing" target="_blank"><strong>Weeks 7 and 8 Zipped R Project to Download</strong></a></li>
+<li><p><strong>Video Recordings</strong> - Lecture 14 Recordings are watchable, but audio issues occurred. Please let me know if you have questions.</p>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_gj4xejju/387188382" target="_blank"><strong>Lecture 14 - 2025-10-09 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_mm6ikr05/387188382" target="_blank"><strong>Lecture 14 - 2025-10-09 - 2:00 PM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_kvrrpegb/387188382" target="_blank"><strong>Lecture 16 - 2025-10-16 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_vcsjnhuh/387188382" target="_blank"><strong>Lecture 16 - 2025-10-16 - 2:00 PM</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Weeks 6 and 7: Reshaping. Cleaning, and Joining Data</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1226774" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1226777" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1LUym1aUPRd3rvv0DMkJ7ym5GAZhDBJKG/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing" target="_blank"><strong>Week 6 Zipped R Project to Download</strong></a></li>
+<li><strong>Video Recordings</strong>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_ef9or8lo/387188382" target="_blank"><strong>Lecture 11 - 2025-09-30 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_ix3jtxev/387188382" target="_blank"><strong>Lecture 11 - 2025-09-30 - 2:00 PM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_y3iafm15/387188382" target="_blank"><strong>Lecture 13 - 2025-10-07 - 9:30 AM</strong></a></li>
+<li><p><a href="https://video.syr.edu/media/t/1_d4l3ybev/387188382" target="_blank"><strong>Lecture 13 - 2025-10-07 - 2:00 PM</strong></a> - There may be some flaws in this audio recording.</p></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Week 5: Cheat Sheets, AI, Functions, and Review</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1342482" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1223849" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1JQPZpqVtGhy_Pka3rvbZ1ekmks0r6CPO/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/16OOunZmUWf-SgBThe89KBmaeEi9j24l4/view?usp=sharing" target="_blank"><strong>Week 5 Zipped R Project to Download</strong></a></li>
+<li><strong>Video Recordings</strong>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_yzg4ctyx/387188382" target="_blank"><strong>Lecture 9 - 2025-09-23 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_qm2k88pd/387188382" target="_blank"><strong>Lecture 9 - 2025-09-23 - 2:00 PM</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Week 4: Combining Skills and Quiz Review</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1221027" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1221030" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1Irb5c6TayC-NyqvOF6_PsQIHxwteM01H/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1zLMDnxcfStFY8VPmpK57rN7_Uc4YniCp/view?usp=sharing" target="_blank"><strong>Week 4 Zipped R Project to Download</strong></a>
+<ul>
+<li>Unzip and save unzipped project folder to BUA 455 folder on your desktop.</li>
+</ul></li>
+<li><strong>Video Recordings</strong>
+<ul>
+<li><p><a href="https://video.syr.edu/media/t/1_ik8723ke/387188382" target="_blank"><strong>Lecture 7 - 2025-09-16 - 2:00 PM</strong></a> - 9:30 AM recording did not have full audio.</p></li>
+<li><a href="https://video.syr.edu/media/t/1_ct157ge8/387188382" target="_blank"><strong>Lecture 8 - 2025-09-18 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_qiguc8ge/387188382" target="_blank"><strong>Lecture 8 - 2025-09-18 - 2:00 PM</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Week 3: Reshaping and Summarizing Data</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1217848" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1217850" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1IpThEkRuYpME6PIdv_j9pOQ5gUpfaeuj/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1oLSUXtXYeHnsUdrkn3SpYZDU0NZdZNTc/view?usp=sharing" target="_blank"><strong>Week 3 Zipped R Project to Download</strong></a>
+<ul>
+<li>Unzip and save unzipped project folder to BUA 455 folder on your desktop.</li>
+</ul></li>
+<li><strong>Video Recordings</strong>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_0cva5prc/387188382" target="_blank"><strong>Lecture 5 - 2025-09-09 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_hp1b80ox/387188382" target="_blank"><strong>Lecture 5 - 2025-09-09 - 2:00 PM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_6dilwogd/387188382" target="_blank"><strong>Lecture 6 - 2025-09-11 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_92vf2ps5/387188382" target="_blank"><strong>Lecture 6 - 2025-09-11 - 2:00 PM</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Week 2: Introduction to dplyr commands and ggplot</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1215286" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1215287" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1IngBTEB-GuZJawBSBtD6ICc63CZRylEH/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1o3GBPckHWmb3dCpk91f-9vqlRuXdwWet/view?usp=sharing" target="_blank"><strong>Week 2 Zipped R Project to Download</strong></a>
+<ul>
+<li>Unzip and save unzipped project folder to BUA 455 folder on your desktop.</li>
+</ul></li>
+<li><strong>Video Recordings</strong>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_8q25mkkl/387188382" target="_blank"><strong>Lecture 3 - 2025-09-02 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_px4lls6l/387188382" target="_blank"><strong>Lecture 3 - 2025-09-02 - 2:00 PM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_o50mulrn/387188382" target="_blank"><strong>Lecture 4 - 2025-09-04 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_ayv30r70/387188382" target="_blank"><strong>Lecture 4 - 2025-09-04 - 2:00 PM</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Week 1: R Projects, R Quarto Files, and R Syntax</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1188589" target="_blank"><strong>Slides</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1212697" target="_blank"><strong>Notes</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1ItvsDJaWbEDFNiFbxCcbwQvlgfraRCJR/view?usp=sharing" target="_blank"><strong>Notes PDF</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1nrBPZEMahZ08pAuLYcvLtvYPiAkn2R7D/view?usp=sharing" target="_blank"><strong>Week 1 Zipped R Project to Download</strong></a>
+<ul>
+<li>Unzip and save unzipped project folder to BUA 455 folder on your desktop.</li>
+</ul></li>
+<li><strong>Video Recordings</strong>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_64trrleo/387188382" target="_blank"><strong>Lecture 1 - 2025-08-26 - 2:00 PM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_p2mlvj7h/387188382" target="_blank"><strong>Lecture 2 - 2025-08-28 - 9:30 AM</strong></a></li>
+<li><a href="https://video.syr.edu/media/t/1_4mqskaye/387188382" target="_blank"><strong>Lecture 2 - 2025-08-28 - 2:00 PM</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+</div>
+<div id="homework-assignments" class="dashboard-page tab-pane grid-skip html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-homework-assignments">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<ul>
+<li><strong>Homework 5 - Part 1:</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1232737" target="_blank"><strong>HW 5 - Part 1 Instructions</strong></a></li>
+<li><a href="https://drive.google.com/file/d/10KFJvewY50mNdhqwykG0EsxwFaA4qSwJ/view?usp=sharing" target="_blank"><strong>HW 5 - Part 1.zip (Zipped R project)</strong></a></li>
+<li><a href="https://drive.google.com/file/d/10I2KeSl3ABhZ9rzbBdzMuaVyoT2UEiy-/view?usp=sharing" target="_blank"><strong>setup_data_mgmt_chunks.txt</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing" target="_blank"><strong>R Project - README Template.txt</strong></a></li>
+<li><a href="https://rpubs.com/PeneLope_PE/1229274" target="_blank"><strong>Example Completed Dashboard with TV Data</strong></a></li>
+<li><a href="https://video.syr.edu/playlist/dedicated/353201892/1_u90z1wia/" target="_blank"><strong>HW 5 - Part 1 - Demo Video Playlist Playlist</strong></a>
+<ul>
+<li><a href="https://video.syr.edu/media/t/1_zafd4usy/353201892" target="_blank"><strong>OPTIONAL Extra Credit Demo</strong></a></li>
+</ul></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Homework 4:</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1226728" target="_blank"><strong>HW 4 Instructions</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1DFE4VnAdDAmhqIKuSJictN7Ilk6bIZRw/view?usp=sharing" target="_blank"><strong>HW4_Template.qmd</strong></a></li>
+<li><a href="https://drive.google.com/file/d/16lmXwBw3H9_9kiYjXzTupJOrMIN84eh1/view?usp=sharing" target="_blank"><strong>DATA: HW4_data_files.zip - Unzip and save 3 data files to <code>data</code> folder</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing" target="_blank"><strong>R Project - README Template.txt</strong></a></li>
+<li><a href="https://video.syr.edu/playlist/dedicated/353201892/1_yc5vl2le/" target="_blank"><strong>HW 4 Demo Video Playlist</strong></a></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Homework 3:</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1216489" target="_blank"><strong>HW 3 Instructions</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1oFMkCRKE1qWB7GEOIlajK0psDVyAzHs0/view?usp=sharing" target="_blank"><strong>HW3_Template.qmd</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1oB_nLuLZ_KagGeCkrsqmGs1tFZGrHw1l/view?usp=sharing" target="_blank"><strong>DATA: Box_Office_Mojo_Week3_HW3.csv - Save to <code>data</code> folder</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing" target="_blank"><strong>R Project - README Template.txt</strong></a></li>
+<li><a href="https://video.syr.edu/playlist/dedicated/353201892/1_b5xeucc6/" target="_blank"><strong>HW 3 Demo Video Playlist</strong></a></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Homework 2:</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1214518" target="_blank"><strong>HW 2 Instructions</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1o-kM0KC3qiEOwHWmw7I7GL8daGvOAGjd/view?usp=sharing" target="_blank"><strong>HW2_Template.qmd</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing" target="_blank"><strong>R Project - README Template.txt</strong></a></li>
+<li><a href="https://video.syr.edu/playlist/dedicated/353201892/1_4ut6eiym/" target="_blank"><strong>HW 2 Demo Video Playlist</strong></a></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><strong>Homework 1 - Parts 2 and 3:</strong>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1212680" target="_blank"><strong>HW 1 Instructions</strong></a></li>
+<li><a href="https://drive.google.com/file/d/1njqHffuwPFfCh1TO-3d_2DRFyPelkGAG/view?usp=sharing" target="_blank"><strong>HW1_SETUP.txt</strong></a></li>
+<li><a href="https://video.syr.edu/playlist/dedicated/353201892/1_epecznax/" target="_blank"><strong>HW 1 Demo Video Playlist</strong></a></li>
+</ul></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+</div>
+<div id="dashboard-project" class="dashboard-page tab-pane grid-skip html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-dashboard-project">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content) minmax(3em, max-content) minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<a href="https://docs.google.com/document/d/1U-DJ3yeHPpxcg1o12Cg2qc2Besb6Jw6UiyAo6gR4S2I/edit?usp=sharing" target="_blank"><strong>Full Project Description and Grading Criteria</strong></a>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<strong>Purpose(s):</strong>
+<ul>
+<li><p>This Data Dashboard group project (23% of course grade) serves two purposes in the BUA 455 curriculum:</p>
+<ol type="1">
+<li><p>Students will better understand the whole data management process and how to make good choices at each step to make the work process more efficient and reproducible.</p></li>
+<li><p>Students will learn about the interactive components of a data management and visualization project, i.e., a dashboard, including how to communicate with technically knowledgeable colleagues and non-technical audiences.</p></li>
+</ol></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<strong>Description of Project:</strong>
+<ul>
+<li><p>Students in Groups of 5 or 6 will develop a Data Dashboard.</p></li>
+<li><p>In class, we will review how to use the <a href="https://quarto.org/docs/gallery/#dashboards" target="_blank"><strong>Quarto Dashboard format</strong></a> to publish a multi-page dashboard.</p></li>
+<li><p>Each group will aggregate, manage, and curate data for a hypothetical client to address their data questions and needs.</p></li>
+<li><p>Each student in the group, except for one, will be responsible for one page of the dashboard.</p></li>
+<li><p>One person in each group (who doesn’t have their own page) will oversee project as a whole and ensure that the dashboard is cohesive.</p></li>
+<li><p>Each page can present a single plot, a set of plots, or a plot and a table, and should have explanatory text and citations for data sources if needed.</p></li>
+<li><p>The final page of your dashboard will include all citations for software, software packages, AI sources, and data used to create your dashboard.</p></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+</div>
+<div id="interesting-data" class="dashboard-page tab-pane grid-skip html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-interesting-data">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content) minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<strong>NOTES:</strong>
+<ul>
+<li><p>Many data sources provide data in a downloadable format such as Excel (.xlsx) or .csv. I recommend saving data as CSV UTF-8 files with a .csv postscript.</p></li>
+<li><p>The list below is in alphabetical order and is not an exhaustive list.</p></li>
+<li><p>Some data sources do not provide data in a downloadable format so the data values have to be scraped from the website.</p></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
+grid-auto-rows: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<a href="https://www.billboard.com/" target="_blank"><strong>Billboard</strong></a>
+<ul>
+<li>Scraping required</li>
+</ul>
+<a href="https://www.bea.gov/" target="_blank"><strong>BEA - Bureau of Economic Analysis</strong></a>
+<br>
+<a href="https://www.bls.gov/" target="_blank"><strong>BLS- Bureau of Labor Statistics</strong></a>
+<br>
+<a href="https://www.boxofficemojo.com/" target="_blank"><strong>Box Office Mojo</strong></a>
+<ul>
+<li>Scraping required but it’s straightforward.</li>
+</ul>
+<a href="https://composite-indicators.jrc.ec.europa.eu/" target="_blank"><strong>Competence Centre on Composite Indicators and Scoreboards</strong></a>
+<ul>
+<li>Great source for unusual datas</li>
+</ul>
+<a href="https://data.world/home/" target="_blank"><strong>Data World</strong></a>
+<ul>
+<li>An ecclectic library of data that can be searched by topic of interest</li>
+</ul>
+<a href="https://www.energy.gov/energy-economy/prices-trends" target="_blank"><strong>Department of Energy - Prices &amp; Trends</strong></a>
+<br>
+<a href="https://ec.europa.eu/eurostat" target="_blank"><strong>Eurostat</strong></a>
+<ul>
+<li><p>A wide variety of data about Europe can be accessed at this site.</p></li>
+<li><p>Aanalogous to US.Gov for the United States.</p></li>
+</ul>
+<a href="https://www.federalreserve.gov/data.htm" target="_blank"><strong>Federal Reserve Data</strong></a>
+<br>
+<a href="https://www.kaggle.com/" target="_blank"><strong>Kaggle</strong></a>
+<ul>
+<li>An ecclectic library of data that can be searched by topic of interest</li>
+<li>Kaggle also holds competitions where data scientists can win money and build a reputation</li>
+</ul>
+<a href="https://ourworldindata.org/" target="_blank"><strong>Our World in Data</strong></a>
+<ul>
+<li>Good source for geographic and demographic data</li>
+</ul>
+<a href="https://www.sports-reference.com/" target="_blank"><strong>Sports Reference</strong></a>
+<ul>
+<li>Scraping required</li>
+<li>Wide range of sports data</li>
+</ul>
+<a href="https://www-statista-com.libezproxy2.syr.edu/" target="_blank"><strong>Statista</strong></a>
+<ul>
+<li>Syracuse University Libraries provides paid membership access</li>
+<li>Use link above and then sign in with SU NetID and Password</li>
+<li>Excellent resource for public and private sector data</li>
+</ul>
+<a href="https://www.eia.gov/" target="_blank"><strong>U.S. Energy Information Administration</strong></a>
+<ul>
+<li>Excellent information on electricity usage by location or region.</li>
+</ul>
+<a href="https://data.gov/" target="_blank"><strong>Data.Gov - Data and Statistics about the U.S.</strong></a>
+<ul>
+<li>Includes MANY topics including BLS, DOE, and EIA above</li>
+</ul>
+<a href="https://finance.yahoo.com/" target="_blank"><strong>Yahoo Finance</strong></a>
+<ul>
+<li>Stock data can be directly imported into R as an xts dataset</li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+</div>
+<div id="dashboard-examples" class="dashboard-page tab-pane grid-skip html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-dashboard-examples">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1354958" target="_blank">HW 5 - Part 1</a></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1276088" target="_blank">Dashboard Example 1</a>
+<ul>
+<li><p>This group created a highly customized color scheme which is not required.</p></li>
+<li><p>Groups can use one of the many packaged dashboard themes that work really well.</p></li>
+<li><p>Overall, this is excellent work but dashboards should be less wordy.</p></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1276097" target="_blank">Dashboard Example 2</a>
+<ul>
+<li><p>This group used the default theme which is fine, but it is easy to change.</p></li>
+<li><p>Overall, this is also excellent work, but again, a little too wordy.</p></li>
+<li><p>The perceptive depth of the analysis in the plots made this project stand out.</p></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1276115" target="_blank">Dashboard Example 3</a>
+<ul>
+<li><p>This group used a packaged dashboard theme and complementary color pallettes that enhanced their dashboard.</p></li>
+<li><p>This group also did an excellent job of editing the text and almost all of the pages are well arranged.</p></li>
+<li><p>The data management in the dashboard was excellent. If this was a graduate class, I would encourage the students to go further with the analyses. I also might suggest more advanced plots and subsequent data exploration suggested by the work they had already completed.</p></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://rpubs.com/PeneLope_PE/1300146" target="_blank">Dashboard Example 4</a>
+<ul>
+<li>This group did some interesting work and I am including this example because it corresponds to the example memos provided later in the semester.</li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://peneloopy.github.io/sixth_grade_2025/survey_dashboard.html#" target="_blank">Presentation to 6th Grade Class</a>
+<ul>
+<li><p>In May of 2025, I asked two sixth grade classes to complete an anonymous survey and then I created a dashboard from their responses using the same criteria required for your projects.</p></li>
+<li><p>This dashboard is posted on GitHub.</p></li>
+<li><p>I will be using GitHub as the sole platform in a course I am developing, <strong>Interactive Exploratory Data Analysis</strong>.</p></li>
+</ul></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+</div>
+</div>
+<div id="project-component-examples" class="dashboard-page tab-pane grid-skip html-fill-item html-fill-container" data-orientation="rows" aria-labelledby="tab-project-component-examples">
+<div class="html-fill-item html-fill-container bslib-grid" style="display: grid; grid-template-rows: minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
+<div class="card html-fill-item html-fill-container bslib-card" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
+<div class="card-body html-fill-item html-fill-container">
+<strong>Proposal Examples</strong>
+<ul>
+<li><a href="https://drive.google.com/file/d/1PLaEhDbTvmJFB7UAHiSFC5h5dFgW-J0W/view?usp=sharing" target="_blank">Rough Draft Proposal Example</a>
+<ul>
+<li><p>This example is provided as guidance NOT a template to follow.</p></li>
+<li><p>Your group’s rough draft proposal does not have to look exactly like this or have this exact number of questions or data sources.</p></li>
+</ul></li>
+</ul>
+<br>
+<ul>
+<li><a href="https://drive.google.com/file/d/1e_ugNG3E2ozmzTRqiLcCSm8RLyYBsZq9/view?usp=sharing" target="_blank">Final Proposal Example</a>
+<ul>
+<li><p>This group added their final proposal to their rough draft text which is okay.</p></li>
+<li><p>Adding your final proposal to your draft proposal is not required, but if you choose to do this, don’t worry about the page limit suggestion.</p></li>
+<li><p>Again, this example is provided as guidance, not a template but <strong>I do want the final proposal to be explicit about what will be on each page and who is responsible for each page.</strong></p></li>
+</ul></li>
+</ul>
+</div>
+<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
+    <template>Expand</template>
+    <span class="bslib-full-screen-enter badge rounded-pill">
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
+    </span>
+</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
+
+
+<div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden html-fill-item html-fill-container">
+
+</div>
+</div>
+</div>
+</div>
+
+
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/PeneLoopy\.github\.io\/bua_455_sem\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (_event) {
+  if (window.bslib.Card) {
+    window.bslib.Card.initializeAllCards();
+  }
+}); 
+</script>
+  
+
+
+
+</body></html>
