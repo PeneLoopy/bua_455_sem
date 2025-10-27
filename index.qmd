@@ -163,6 +163,18 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 10-Part 1 - HW 5-Part 1 and Related Skills**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1236191){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1236192){target="_blank"}
+
+    -   [**Notes PDF**](https://drive.google.com/file/d/1d0VKi09xIw-foKB-N7VBzLBnpKO0x-4V/view?usp=sharing){target="_blank"}
+
+    -   [**Week 10 - Part 1 Zipped R Project to Download**](https://drive.google.com/file/d/16m7Dd-V-1463Jfza2B88WlPjfVnU0K_x/view?usp=sharing){target="_blank"}
+
+<br>
+
 -   **Week 9: Dashboard Project Proposal & Data Cleaning**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1232783){target="_blank"}
@@ -179,7 +191,7 @@ My User Name: **penelopepoolereisenbies685**
         Screenshot**](https://drive.google.com/file/d/1Kwr0hYUW_uzwxSKqaQ5w6V4u1HKXvvFI/view?usp=sharing){target="_blank"}
 
     -   **Video Recordings**
-    
+
         -   [**Lecture 18 - 2025-10-23 - 9:30
             AM**](https://video.syr.edu/media/t/1_xq1ffrob/387188382){target="_blank"}
 
