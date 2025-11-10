@@ -163,6 +163,21 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 12: - More on Geographic Data, Project
+    Management, and Publishing a Dashboard**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1244312){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1244317){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1etNJeZZvRcuI3vU8s9Bge_JC7vGyEjmR/view?usp=sharing){target="_blank"}
+
+    -   [**Week 12 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1dWnLo94zIqGgZdyVRSRr9zEo5RRdYQVC/view?usp=sharing){target="_blank"}
+
+<br>
+
 -   **Weeks 10 and 11: - Introduction To Geographic Data and
     Quiz 2 Review**
 
@@ -183,7 +198,7 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 20 - 2025-10-30 - 2:00
             PM**](https://video.syr.edu/media/t/1_8olcfgck/387188382){target="_blank"}
-            
+
         -   [**Lecture 21 - 2025-11-04 - 9:30
             AM**](https://video.syr.edu/media/t/1_wv8vq9v2/387188382){target="_blank"}
 
@@ -449,6 +464,29 @@ My User Name: **penelopepoolereisenbies685**
 # Homework Assignments
 
 ## Row
+
+-   **Homework 5 - Part 2:**
+
+    -   [**HW 5 - Part 2 - Posit Cloud
+        Project**](https://posit.cloud/content/10125821){target="_blank"}
+
+    -   [**HW 5 - Part 2
+        Instructions**](https://rpubs.com/PeneLope_PE/1244948){target="_blank"}
+        
+    -   [**HW 5 - Part 2 - Text Files.zip (Upload Zipped
+        folder of 4 text files to project
+        folder.)**](https://drive.google.com/file/d/1dai8SJ2ZUhOYK_cU2I9rBXYeUaWrEzoR/view?usp=sharing){target="_blank"}
+
+    -   [**HW 5 - Part 2 - NewData.zip (Upload Zipped folder
+        of two `.csv` files to `data` folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
+
+    -   [**HW5_Pt2_Page1_Graphic.png (Upload `.png` file to
+        `img` folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
+
+    -   [**HW 5 - Part 2 - Demo Video Playlist
+        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_mf93jpe8/){target="_blank"}
+
+<br>
 
 -   **Homework 5 - Part 1:**
 
