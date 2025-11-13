@@ -176,6 +176,13 @@ My User Name: **penelopepoolereisenbies685**
     -   [**Week 12 Zipped R Project to
         Download**](https://drive.google.com/file/d/1dWnLo94zIqGgZdyVRSRr9zEo5RRdYQVC/view?usp=sharing){target="_blank"}
 
+    -   **Video Recordings**
+
+        -   [**Lecture 23 - 2025-11-11 - 9:30 AM**](https://video.syr.edu/media/t/1_fu45xpg4/387188382){target="_blank"}
+
+        -   [**Lecture 23 - 2025-11-11 - 2:00 PM**](https://video.syr.edu/media/t/1_4mdb8b6u/387188382){target="_blank"}
+
+
 <br>
 
 -   **Weeks 10 and 11: - Introduction To Geographic Data and
@@ -472,16 +479,18 @@ My User Name: **penelopepoolereisenbies685**
 
     -   [**HW 5 - Part 2
         Instructions**](https://rpubs.com/PeneLope_PE/1244948){target="_blank"}
-        
+
     -   [**HW 5 - Part 2 - Text Files.zip (Upload Zipped
         folder of 4 text files to project
         folder.)**](https://drive.google.com/file/d/1dai8SJ2ZUhOYK_cU2I9rBXYeUaWrEzoR/view?usp=sharing){target="_blank"}
 
     -   [**HW 5 - Part 2 - NewData.zip (Upload Zipped folder
-        of two `.csv` files to `data` folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
+        of two `.csv` files to `data`
+        folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
 
     -   [**HW5_Pt2_Page1_Graphic.png (Upload `.png` file to
-        `img` folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
+        `img`
+        folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
 
     -   [**HW 5 - Part 2 - Demo Video Playlist
         Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_mf93jpe8/){target="_blank"}
