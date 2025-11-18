@@ -163,8 +163,21 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
--   **Week 12: - More on Geographic Data, Project
-    Management, and Publishing a Dashboard**
+-   **Week 13: - Editing a Quarto Dashboard, Project Memos, Etc.**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1247142){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1297702){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1f_rdByyqeCjnYqi9ApXCmCR5Vew42NLt/view?usp=sharing){target="_blank"}
+
+    -   [**Week 13 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1e-23RYM81c5JxOU817tgSgliZrhR1fBV/view?usp=sharing){target="_blank"}
+
+<br>
+
+-   **Week 12: - More on Geographic Data, Project Management, and Publishing a Dashboard**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1244312){target="_blank"}
 
@@ -178,12 +191,17 @@ My User Name: **penelopepoolereisenbies685**
 
     -   **Video Recordings**
 
-        -   [**Lecture 23 - 2025-11-11 - 9:30 AM**](https://video.syr.edu/media/t/1_fu45xpg4/387188382){target="_blank"}
+        -   [**Lecture 23 - 2025-11-11 - 9:30
+            AM**](https://video.syr.edu/media/t/1_fu45xpg4/387188382){target="_blank"}
 
-        -   [**Lecture 23 - 2025-11-11 - 2:00 PM**](https://video.syr.edu/media/t/1_4mdb8b6u/387188382){target="_blank"}
-
+        -   [**Lecture 23 - 2025-11-11 - 2:00
+            PM**](https://video.syr.edu/media/t/1_4mdb8b6u/387188382){target="_blank"}
+            
+        -   [**Lecture 24 - 2025-11-13 - 9:30
+            AM**](https://video.syr.edu/media/t/1_1nfgznio/387188382){target="_blank"}
 
 <br>
+
 
 -   **Weeks 10 and 11: - Introduction To Geographic Data and
     Quiz 2 Review**
@@ -826,6 +844,32 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
         Data Analysis**.
 
 # Project Component Examples
+
+**Memo Examples**
+
+These two memos pertain to Example Dashboard 4. This was not a perfect dashboard, but the memos were very well executed.
+
+-   [Example Memo to
+    Supervisor](https://drive.google.com/file/d/1g0naNnzu_HWmEfYY0pZxd2h84f4kGVqc/view?usp=sharing){target="_blank"}
+
+    -   Overall this memo was concise and very well
+        executed. Although the group mentioned potential
+        questions that might arise they did not provide
+        possible answers to those questions.
+
+<br>
+
+-   [Example Memo to Technical
+    Colleague](https://drive.google.com/file/d/1g4ojwBuhHYUxm-sztATk3XkGrnNCTb7E/view?usp=sharing){target="_blank"}
+
+    -   This memo succinctly explained the steps needs to
+        update each aspect of the dashboard.
+
+    -   There are always details that can be edited and
+        improved but this was very well done.
+
+<br>
+
 
 **Proposal Examples**
 
