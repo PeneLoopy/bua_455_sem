@@ -163,6 +163,17 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-  **Week 14: Quarto Memo Word Document Demo and In-class Work Day**
+
+    - During this lecture I will talk for about 10-15 minutes to demonstrate and highlight a couple items.
+    - I will take attendance using Poll Everywhere.
+    
+    - The rest of this class period will be used for project groups to meet and ask me questions, if needed.
+    
+    - Please keep in mind that if you need my help with coding, it is best to send me the file (or upload it to Posit Cloud) and send me your questions ahead of time.
+    
+<br>
+
 -   **Week 13: - Editing a Quarto Dashboard, Project Memos,
     Etc.**
 
@@ -175,7 +186,7 @@ My User Name: **penelopepoolereisenbies685**
 
     -   [**Week 13 Zipped R Project to
         Download**](https://drive.google.com/file/d/1e-23RYM81c5JxOU817tgSgliZrhR1fBV/view?usp=sharing){target="_blank"}
-        
+
     -   **Video Recordings**
 
         -   [**Lecture 25 - 2025-11-18 - 9:30
@@ -183,9 +194,15 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 25 - 2025-11-18 - 2:00
             PM**](https://video.syr.edu/media/t/1_w4fao200/387188382){target="_blank"}
+            
+        -   [**Lecture 26 - 2025-11-20 - 9:30
+            AM**](https://video.syr.edu/media/t/1_iip30bxe/387188382){target="_blank"}
 
+        -   [**Lecture 26 - 2025-11-20 - 2:00
+            PM**](https://video.syr.edu/media/t/1_yfj3107c/387188382){target="_blank"}
 
 <br>
+
 
 -   **Week 12: - More on Geographic Data, Project
     Management, and Publishing a Dashboard**
