@@ -13,7 +13,8 @@ format: dashboard
 518**
 
 -   In-Person Hours: Tue. Thu. 3:30 PM - 4:30 PM
--   Zoom Hours: Mon. Wed. 4:30 PM - 5:30 PM - [**Zoom Hrs. Link**](https://syracuseuniversity.zoom.us/j/96889308509){target="_blank"}
+-   Zoom Hours: Mon. Wed. 4:30 PM - 5:30 PM - [**Zoom Hrs.
+    Link**](https://syracuseuniversity.zoom.us/j/96889308509){target="_blank"}
 -   Also available by appointment on Zoom or in-person
 
 ### Column
@@ -162,17 +163,31 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
--  **Week 14: Quarto Memo Word Document Demo and In-class Work Day**
+-   **Week 14: Quarto Memo Word Document Demo and In-class
+    Work Day**
 
-    - During this lecture I will talk for about 10-15 minutes to demonstrate and highlight a couple items.
-    - I will take attendance using Poll Everywhere.
-    
-    - I will also step out for five minutes so students can complete [**course evaluations**](http://coursefeedback.syr.edu/){target="_blank"}.
-    
-    - The rest of this class period will be used for project groups to meet and ask me questions, if needed.
-    
-    - Please keep in mind that if you need my help with coding, it is best to send me the file (or upload it to Posit Cloud) and send me your questions ahead of time.
-    
+    -   During this lecture I will talk for about 10-15
+        minutes to demonstrate and highlight a couple items.
+
+    -   I will take attendance using Poll Everywhere.
+
+    -   I will also step out for five minutes so students
+        can complete [**course
+        evaluations**](http://coursefeedback.syr.edu/){target="_blank"}.
+
+    -   The rest of this class period will be used for
+        project groups to meet and ask me questions, if
+        needed.
+
+    -   Please keep in mind that if you need my help with
+        coding, it is best to send me the file (or upload it
+        to Posit Cloud) and send me your questions ahead of
+        time.
+
+  
+    -   **Video Recording**
+
+        -   [**Lecture 27 - 2025-12-02 - 2:00 PM**](https://video.syr.edu/media/t/1_xpis1cxb/387188382){target="_blank"}
 
 <br>
 
