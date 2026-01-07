@@ -19,15 +19,13 @@ format: dashboard
 
 ### Column
 
-**Teaching Assistants: Available by Appt.**
+**Teaching Assistant: Available by Appt.**
 
--   Aditya Adkar - `aaadkar@syr.edu`
-
--   Arjun Pendharkar - `apendhar@syr.edu`
+-   TBD
 
 ## Row {height="70%"}
 
-[**Fall 2025
+[**Spring 2026
 Syllabus**](https://docs.google.com/document/d/1JUHyaWnGifw-f6i5rXJFKOIU0yhdBbL1MKCg1FxbQHY/edit?usp=sharing){target="_blank"}
 
 -   NOTE: The order of the material varies slightly between
@@ -35,14 +33,14 @@ Syllabus**](https://docs.google.com/document/d/1JUHyaWnGifw-f6i5rXJFKOIU0yhdBbL1
     updated as the semester progresses. I will always let
     you know if there are substantial changes.
 
-[**Fall 2025 Absence Explanation
+[**Spring Absence Explanation
 Form**](https://forms.gle/kuZi7aoLyEcBhqfK8){target="_blank"}
 
 -   If you are absent or have a temporary technical issue
     with POLL EVERYWHERE, use this Google form to explain.
 
-[**Fall 2025 BUA 455 Blackboard
-Site**](https://blackboard.syracuse.edu/ultra/courses/_553315_1/outline){target="_blank"}
+[**Spring 2026 BUA 455 Blackboard
+Site**](){target="_blank"}
 
 -   Engagement Questions, Assignments, and Tests will be
     submitted on Blackboard.
@@ -69,7 +67,7 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
     it.
 
 [**Permananent BUA 455
-Website**](https://penelope2040.quarto.pub/bua-455/){target="_blank"}
+Website**](){target="_blank"}
 
 -   This link provides permanent access to the most recent
     lecture slides, notes, and R projects after the semester
@@ -163,344 +161,6 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
--   **Week 14: Quarto Memo Word Document Demo and In-class
-    Work Day**
-
-    -   During this lecture I will talk for about 10-15
-        minutes to demonstrate and highlight a couple items.
-
-    -   I will take attendance using Poll Everywhere.
-
-    -   I will also step out for five minutes so students
-        can complete [**course
-        evaluations**](http://coursefeedback.syr.edu/){target="_blank"}.
-
-    -   The rest of this class period will be used for
-        project groups to meet and ask me questions, if
-        needed.
-
-    -   Please keep in mind that if you need my help with
-        coding, it is best to send me the file (or upload it
-        to Posit Cloud) and send me your questions ahead of
-        time.
-
-  
-    -   **Video Recording**
-
-        -   [**Lecture 27 - 2025-12-02 - 2:00 PM**](https://video.syr.edu/media/t/1_xpis1cxb/387188382){target="_blank"}
-
-<br>
-
--   **Week 13: - Editing a Quarto Dashboard, Project Memos,
-    Etc.**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1247142){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1297702){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1f_rdByyqeCjnYqi9ApXCmCR5Vew42NLt/view?usp=sharing){target="_blank"}
-
-    -   [**Week 13 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1e-23RYM81c5JxOU817tgSgliZrhR1fBV/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 25 - 2025-11-18 - 9:30
-            AM**](https://video.syr.edu/media/t/1_kfyo8xcn/387188382){target="_blank"}
-
-        -   [**Lecture 25 - 2025-11-18 - 2:00
-            PM**](https://video.syr.edu/media/t/1_w4fao200/387188382){target="_blank"}
-
-        -   [**Lecture 26 - 2025-11-20 - 9:30
-            AM**](https://video.syr.edu/media/t/1_iip30bxe/387188382){target="_blank"}
-
-        -   [**Lecture 26 - 2025-11-20 - 2:00
-            PM**](https://video.syr.edu/media/t/1_yfj3107c/387188382){target="_blank"}
-
-<br>
-
--   **Week 12: - More on Geographic Data, Project
-    Management, and Publishing a Dashboard**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1244312){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1244317){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1etNJeZZvRcuI3vU8s9Bge_JC7vGyEjmR/view?usp=sharing){target="_blank"}
-
-    -   [**Week 12 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1dWnLo94zIqGgZdyVRSRr9zEo5RRdYQVC/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 23 - 2025-11-11 - 9:30
-            AM**](https://video.syr.edu/media/t/1_fu45xpg4/387188382){target="_blank"}
-
-        -   [**Lecture 23 - 2025-11-11 - 2:00
-            PM**](https://video.syr.edu/media/t/1_4mdb8b6u/387188382){target="_blank"}
-
-        -   [**Lecture 24 - 2025-11-13 - 9:30
-            AM**](https://video.syr.edu/media/t/1_1nfgznio/387188382){target="_blank"}
-
-<br>
-
--   **Weeks 10 and 11: - Introduction To Geographic Data and
-    Quiz 2 Review**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1288573){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1362018){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/19Vwr-HfvL13sZh3aRXMYBF9kdmoXakY6/view?usp=sharing){target="_blank"}
-
-    -   [**Weeks 10 and 11 Zipped R Project to
-        Download**](https://drive.google.com/file/d/18KGna0qV27RMJlVCQYZ_r5SY2SGwFdm5/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 20 - 2025-10-30 - 9:30
-            AM**](https://video.syr.edu/media/t/1_yrrmh8t6/387188382){target="_blank"}
-
-        -   [**Lecture 20 - 2025-10-30 - 2:00
-            PM**](https://video.syr.edu/media/t/1_8olcfgck/387188382){target="_blank"}
-
-        -   [**Lecture 21 - 2025-11-04 - 9:30
-            AM**](https://video.syr.edu/media/t/1_wv8vq9v2/387188382){target="_blank"}
-
-        -   [**Lecture 21 - 2025-11-04 - 2:00
-            PM**](https://video.syr.edu/media/t/1_uimkti90/387188382){target="_blank"}
-
-<br>
-
--   **Week 10-Part 1 - HW 5-Part 1 and Related Skills**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1236191){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1236192){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1d0VKi09xIw-foKB-N7VBzLBnpKO0x-4V/view?usp=sharing){target="_blank"}
-
-    -   [**Week 10 - Part 1 Zipped R Project to
-        Download**](https://drive.google.com/file/d/16m7Dd-V-1463Jfza2B88WlPjfVnU0K_x/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 19 - 2025-10-28 - 9:30
-            AM**](https://video.syr.edu/media/t/1_6kw879j7/387188382){target="_blank"}
-
-        -   [**Lecture 19 - 2025-10-28 - 2:00
-            PM**](https://video.syr.edu/media/t/1_c3srmrdt/387188382){target="_blank"}
-
-<br>
-
--   **Week 9: Dashboard Project Proposal & Data Cleaning**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1232783){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1232858){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1Pst22oldR1U-NxhF8el0np06idZgPi74/view?usp=sharing){target="_blank"}
-
-    -   [**Week 9 Zipped R Project to
-        Download**](https://drive.google.com/file/d/11TMXHOTLPeRAmcfb3LrYnqOqMCSDGJKa/view?usp=sharing){target="_blank"}
-
-    -   [**Week 8 In-class Exercise
-        Screenshot**](https://drive.google.com/file/d/1Kwr0hYUW_uzwxSKqaQ5w6V4u1HKXvvFI/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 18 - 2025-10-23 - 9:30
-            AM**](https://video.syr.edu/media/t/1_xq1ffrob/387188382){target="_blank"}
-
-        -   [**Lecture 18 - 2025-10-23 - 2:00
-            PM**](https://video.syr.edu/media/t/1_hgitrgpd/387188382){target="_blank"}
-
-        -   [**Lecture 17 - 2025-10-21 - 9:30
-            AM**](https://video.syr.edu/media/t/1_vzzke6x1/387188382){target="_blank"}
-
-        -   [**Lecture 17 - 2025-10-21 - 2:00
-            PM**](https://video.syr.edu/media/t/1_bmq2zpri/387188382){target="_blank"}
-
-<br>
-
--   **Weeks 7 and 8: Time Series, Data Formats, Output
-    Formats, Project Introduction**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1353094){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1353093){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/13OBgmaHwZD7_6IFkArX-LJS9yWXvGLzH/view?usp=sharing){target="_blank"}
-
-    -   [**Weeks 7 and 8 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1JzzN90M6YudvnUUEY7qxxIWHHlVJUPxZ/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings** - Lecture 14 Recordings are
-        watchable, but audio issues occurred. Please let me
-        know if you have questions.
-
-        -   [**Lecture 14 - 2025-10-09 - 9:30
-            AM**](https://video.syr.edu/media/t/1_gj4xejju/387188382){target="_blank"}
-
-        -   [**Lecture 14 - 2025-10-09 - 2:00
-            PM**](https://video.syr.edu/media/t/1_mm6ikr05/387188382){target="_blank"}
-
-        -   [**Lecture 16 - 2025-10-16 - 9:30
-            AM**](https://video.syr.edu/media/t/1_kvrrpegb/387188382){target="_blank"}
-
-        -   [**Lecture 16 - 2025-10-16 - 2:00
-            PM**](https://video.syr.edu/media/t/1_vcsjnhuh/387188382){target="_blank"}
-
-<br>
-
--   **Weeks 6 and 7: Reshaping. Cleaning, and Joining Data**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1226774){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1226777){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1LUym1aUPRd3rvv0DMkJ7ym5GAZhDBJKG/view?usp=sharing){target="_blank"}
-
-    -   [**Week 6 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 11 - 2025-09-30 - 9:30
-            AM**](https://video.syr.edu/media/t/1_ef9or8lo/387188382){target="_blank"}
-
-        -   [**Lecture 11 - 2025-09-30 - 2:00
-            PM**](https://video.syr.edu/media/t/1_ix3jtxev/387188382){target="_blank"}
-
-        -   [**Lecture 13 - 2025-10-07 - 9:30
-            AM**](https://video.syr.edu/media/t/1_y3iafm15/387188382){target="_blank"}
-
-        -   [**Lecture 13 - 2025-10-07 - 2:00
-            PM**](https://video.syr.edu/media/t/1_d4l3ybev/387188382){target="_blank"} -
-            There may be some flaws in this audio recording.
-
-<br>
-
--   **Week 5: Cheat Sheets, AI, Functions, and Review**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1342482){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1223849){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1JQPZpqVtGhy_Pka3rvbZ1ekmks0r6CPO/view?usp=sharing){target="_blank"}
-
-    -   [**Week 5 Zipped R Project to
-        Download**](https://drive.google.com/file/d/16OOunZmUWf-SgBThe89KBmaeEi9j24l4/view?usp=sharing){target="_blank"}
-
-    -   **Video Recordings**
-
-        -   [**Lecture 9 - 2025-09-23 - 9:30
-            AM**](https://video.syr.edu/media/t/1_yzg4ctyx/387188382){target="_blank"}
-
-        -   [**Lecture 9 - 2025-09-23 - 2:00
-            PM**](https://video.syr.edu/media/t/1_qm2k88pd/387188382){target="_blank"}
-
-<br>
-
--   **Week 4: Combining Skills and Quiz Review**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1221027){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1221030){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1Irb5c6TayC-NyqvOF6_PsQIHxwteM01H/view?usp=sharing){target="_blank"}
-
-    -   [**Week 4 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1zLMDnxcfStFY8VPmpK57rN7_Uc4YniCp/view?usp=sharing){target="_blank"}
-
-        -   Unzip and save unzipped project folder to BUA
-            455 folder on your desktop.
-
-    -   **Video Recordings**
-
-        -   [**Lecture 7 - 2025-09-16 - 2:00
-            PM**](https://video.syr.edu/media/t/1_ik8723ke/387188382){target="_blank"} -
-            9:30 AM recording did not have full audio.
-
-        -   [**Lecture 8 - 2025-09-18 - 9:30
-            AM**](https://video.syr.edu/media/t/1_ct157ge8/387188382){target="_blank"}
-
-        -   [**Lecture 8 - 2025-09-18 - 2:00
-            PM**](https://video.syr.edu/media/t/1_qiguc8ge/387188382){target="_blank"}
-
-<br>
-
--   **Week 3: Reshaping and Summarizing Data**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1217848){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1217850){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1IpThEkRuYpME6PIdv_j9pOQ5gUpfaeuj/view?usp=sharing){target="_blank"}
-
-    -   [**Week 3 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1oLSUXtXYeHnsUdrkn3SpYZDU0NZdZNTc/view?usp=sharing){target="_blank"}
-
-        -   Unzip and save unzipped project folder to BUA
-            455 folder on your desktop.
-
-    -   **Video Recordings**
-
-        -   [**Lecture 5 - 2025-09-09 - 9:30
-            AM**](https://video.syr.edu/media/t/1_0cva5prc/387188382){target="_blank"}
-
-        -   [**Lecture 5 - 2025-09-09 - 2:00
-            PM**](https://video.syr.edu/media/t/1_hp1b80ox/387188382){target="_blank"}
-
-        -   [**Lecture 6 - 2025-09-11 - 9:30
-            AM**](https://video.syr.edu/media/t/1_6dilwogd/387188382){target="_blank"}
-
-        -   [**Lecture 6 - 2025-09-11 - 2:00
-            PM**](https://video.syr.edu/media/t/1_92vf2ps5/387188382){target="_blank"}
-
-<br>
-
--   **Week 2: Introduction to dplyr commands and ggplot**
-
-    -   [**Slides**](https://rpubs.com/PeneLope_PE/1215286){target="_blank"}
-
-    -   [**Notes**](https://rpubs.com/PeneLope_PE/1215287){target="_blank"}
-
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1IngBTEB-GuZJawBSBtD6ICc63CZRylEH/view?usp=sharing){target="_blank"}
-
-    -   [**Week 2 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1o3GBPckHWmb3dCpk91f-9vqlRuXdwWet/view?usp=sharing){target="_blank"}
-
-        -   Unzip and save unzipped project folder to BUA
-            455 folder on your desktop.
-
-    -   **Video Recordings**
-
-        -   [**Lecture 3 - 2025-09-02 - 9:30
-            AM**](https://video.syr.edu/media/t/1_8q25mkkl/387188382){target="_blank"}
-
-        -   [**Lecture 3 - 2025-09-02 - 2:00
-            PM**](https://video.syr.edu/media/t/1_px4lls6l/387188382){target="_blank"}
-
-        -   [**Lecture 4 - 2025-09-04 - 9:30
-            AM**](https://video.syr.edu/media/t/1_o50mulrn/387188382){target="_blank"}
-
-        -   [**Lecture 4 - 2025-09-04 - 2:00
-            PM**](https://video.syr.edu/media/t/1_ayv30r70/387188382){target="_blank"}
-
-<br>
-
 -   **Week 1: R Projects, R Quarto Files, and R Syntax**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1188589){target="_blank"}
@@ -516,124 +176,11 @@ My User Name: **penelopepoolereisenbies685**
         -   Unzip and save unzipped project folder to BUA
             455 folder on your desktop.
 
-    -   **Video Recordings**
-
-        -   [**Lecture 1 - 2025-08-26 - 2:00
-            PM**](https://video.syr.edu/media/t/1_64trrleo/387188382){target="_blank"}
-
-        -   [**Lecture 2 - 2025-08-28 - 9:30
-            AM**](https://video.syr.edu/media/t/1_p2mlvj7h/387188382){target="_blank"}
-
-        -   [**Lecture 2 - 2025-08-28 - 2:00
-            PM**](https://video.syr.edu/media/t/1_4mqskaye/387188382){target="_blank"}
-
 <br>
 
 # Homework Assignments
 
 ## Row
-
--   **Homework 5 - Part 2:**
-
-    -   [**HW 5 - Part 2 - Posit Cloud
-        Project**](https://posit.cloud/content/10125821){target="_blank"}
-
-    -   [**HW 5 - Part 2
-        Instructions**](https://rpubs.com/PeneLope_PE/1244948){target="_blank"}
-
-    -   [**HW 5 - Part 2 - Text Files.zip (Upload Zipped
-        folder of 4 text files to project
-        folder.)**](https://drive.google.com/file/d/1dai8SJ2ZUhOYK_cU2I9rBXYeUaWrEzoR/view?usp=sharing){target="_blank"}
-
-    -   [**HW 5 - Part 2 - NewData.zip (Upload Zipped folder
-        of two `.csv` files to `data`
-        folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
-
-    -   [**HW5_Pt2_Page1_Graphic.png (Upload `.png` file to
-        `img`
-        folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
-
-    -   [**HW 5 - Part 2 - Demo Video Playlist
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_mf93jpe8/){target="_blank"}
-
-<br>
-
--   **Homework 5 - Part 1:**
-
-    -   [**HW 5 - Part 1
-        Instructions**](https://rpubs.com/PeneLope_PE/1232737){target="_blank"}
-
-    -   [**HW 5 - Part 1.zip (Zipped R
-        project)**](https://drive.google.com/file/d/10KFJvewY50mNdhqwykG0EsxwFaA4qSwJ/view?usp=sharing){target="_blank"}
-
-    -   [**setup_data_mgmt_chunks.txt**](https://drive.google.com/file/d/10I2KeSl3ABhZ9rzbBdzMuaVyoT2UEiy-/view?usp=sharing){target="_blank"}
-
-    -   [**R Project - README
-        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
-
-    -   [**Example Completed Dashboard with TV
-        Data**](https://rpubs.com/PeneLope_PE/1229274){target="_blank"}
-
-    -   [**HW 5 - Part 1 - Demo Video Playlist
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_u90z1wia/){target="_blank"}
-
-        -   [**OPTIONAL Extra Credit
-            Demo**](https://video.syr.edu/media/t/1_zafd4usy/353201892){target="_blank"}
-
-<br>
-
--   **Homework 4:**
-
-    -   [**HW 4
-        Instructions**](https://rpubs.com/PeneLope_PE/1226728){target="_blank"}
-
-    -   [**HW4_Template.qmd**](https://drive.google.com/file/d/1DFE4VnAdDAmhqIKuSJictN7Ilk6bIZRw/view?usp=sharing){target="_blank"}
-
-    -   [**DATA: HW4_data_files.zip - Unzip and save 3 data
-        files to `data`
-        folder**](https://drive.google.com/file/d/16lmXwBw3H9_9kiYjXzTupJOrMIN84eh1/view?usp=sharing){target="_blank"}
-
-    -   [**R Project - README
-        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
-
-    -   [**HW 4 Demo Video
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_yc5vl2le/){target="_blank"}
-
-<br>
-
--   **Homework 3:**
-
-    -   [**HW 3
-        Instructions**](https://rpubs.com/PeneLope_PE/1216489){target="_blank"}
-
-    -   [**HW3_Template.qmd**](https://drive.google.com/file/d/1oFMkCRKE1qWB7GEOIlajK0psDVyAzHs0/view?usp=sharing){target="_blank"}
-
-    -   [**DATA: Box_Office_Mojo_Week3_HW3.csv - Save to
-        `data`
-        folder**](https://drive.google.com/file/d/1oB_nLuLZ_KagGeCkrsqmGs1tFZGrHw1l/view?usp=sharing){target="_blank"}
-
-    -   [**R Project - README
-        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
-
-    -   [**HW 3 Demo Video
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_b5xeucc6/){target="_blank"}
-
-<br>
-
--   **Homework 2:**
-
-    -   [**HW 2
-        Instructions**](https://rpubs.com/PeneLope_PE/1214518){target="_blank"}
-
-    -   [**HW2_Template.qmd**](https://drive.google.com/file/d/1o-kM0KC3qiEOwHWmw7I7GL8daGvOAGjd/view?usp=sharing){target="_blank"}
-
-    -   [**R Project - README
-        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
-
-    -   [**HW 2 Demo Video
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_4ut6eiym/){target="_blank"}
-
-<br>
 
 -   **Homework 1 - Parts 2 and 3:**
 
@@ -650,7 +197,7 @@ My User Name: **penelopepoolereisenbies685**
 ## Row
 
 [**Full Project Description and Grading
-Criteria**](https://docs.google.com/document/d/1U-DJ3yeHPpxcg1o12Cg2qc2Besb6Jw6UiyAo6gR4S2I/edit?usp=sharing){target="_blank"}
+Criteria**](https://docs.google.com/document/d/1LOqbiRK2eOG6F4sKpnTBZ8uti0XqruSBkksp1ChW2UA/edit?usp=sharing){target="_blank"}
 
 ## Row
 
@@ -674,8 +221,7 @@ Criteria**](https://docs.google.com/document/d/1U-DJ3yeHPpxcg1o12Cg2qc2Besb6Jw6U
 
 **Description of Project:**
 
--   Students in Groups of 5 or 6 will develop a Data
-    Dashboard.
+-   Student groups will develop a Data Dashboard.
 
 -   In class, we will review how to use the [**Quarto
     Dashboard
@@ -686,12 +232,9 @@ Criteria**](https://docs.google.com/document/d/1U-DJ3yeHPpxcg1o12Cg2qc2Besb6Jw6U
     hypothetical client to address their data questions and
     needs.
 
--   Each student in the group, except for one, will be
-    responsible for one page of the dashboard.
-
--   One person in each group (who doesn’t have their own
-    page) will oversee project as a whole and ensure that
-    the dashboard is cohesive.
+-   One person in each group should ideally will oversee the
+    project as a whole and ensure that the dashboard is
+    cohesive.
 
 -   Each page can present a single plot, a set of plots, or
     a plot and a table, and should have explanatory text and
@@ -699,7 +242,8 @@ Criteria**](https://docs.google.com/document/d/1U-DJ3yeHPpxcg1o12Cg2qc2Besb6Jw6U
 
 -   The final page of your dashboard will include all
     citations for software, software packages, AI sources,
-    and data used to create your dashboard.
+    and data used to create your dashboard. AI sources, and
+    data used to create your dashboard.
 
 # Interesting Data
 
@@ -886,59 +430,3 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
         course I am developing, **Interactive Exploratory
         Data Analysis**.
 
-# Project Component Examples
-
-**Memo Examples**
-
-These two memos pertain to Example Dashboard 4. This was not
-a perfect dashboard, but the memos were very well executed.
-
--   [Example Memo to
-    Supervisor](https://drive.google.com/file/d/1g0naNnzu_HWmEfYY0pZxd2h84f4kGVqc/view?usp=sharing){target="_blank"}
-
-    -   Overall this memo was concise and very well
-        executed. Although the group mentioned potential
-        questions that might arise they did not provide
-        possible answers to those questions.
-
-<br>
-
--   [Example Memo to Technical
-    Colleague](https://drive.google.com/file/d/1g4ojwBuhHYUxm-sztATk3XkGrnNCTb7E/view?usp=sharing){target="_blank"}
-
-    -   This memo succinctly explained the steps needs to
-        update each aspect of the dashboard.
-
-    -   There are always details that can be edited and
-        improved but this was very well done.
-
-<br>
-
-**Proposal Examples**
-
--   [Rough Draft Proposal
-    Example](https://drive.google.com/file/d/1PLaEhDbTvmJFB7UAHiSFC5h5dFgW-J0W/view?usp=sharing){target="_blank"}
-
-    -   This example is provided as guidance NOT a template
-        to follow.
-
-    -   Your group's rough draft proposal does not have to
-        look exactly like this or have this exact number of
-        questions or data sources.
-
-<br>
-
--   [Final Proposal
-    Example](https://drive.google.com/file/d/1e_ugNG3E2ozmzTRqiLcCSm8RLyYBsZq9/view?usp=sharing){target="_blank"}
-
-    -   This group added their final proposal to their rough
-        draft text which is okay.
-
-    -   Adding your final proposal to your draft proposal is
-        not required, but if you choose to do this, don't
-        worry about the page limit suggestion.
-
-    -   Again, this example is provided as guidance, not a
-        template but **I do want the final proposal to be
-        explicit about what will be on each page and who is
-        responsible for each page.**
