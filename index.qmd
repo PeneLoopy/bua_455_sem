@@ -206,11 +206,9 @@ My User Name: **penelopepoolereisenbies685**
 
     - Instructions and demo videos for this assignment will be posted on Monday, January 12th and we will go over the steps together in class.
     
-    - This assignment will help you gain familiarity with 
+    - This assignment will help you gain familiarity with:
     
-       - R projects.
-       
-       - understanding file management and structure.
+       - R project file structure and management.
        
        - some basic R commands and syntax we will use all semester long.
 
