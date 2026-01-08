@@ -204,13 +204,16 @@ My User Name: **penelopepoolereisenbies685**
 
 -   **Homework 1 - Parts 2 and 3:**
 
-    -   [**HW 1
-        Instructions**](https://rpubs.com/PeneLope_PE/1212680){target="_blank"}
+    - Instructions and demo videos for this assignment will be posted on Monday, January 12th and we will go over the steps together in class.
+    
+    - This assignment will help you gain familiarity with 
+    
+       - R projects.
+       
+       - understanding file management and structure.
+       
+       - some basic R commands and syntax we will use all semester long.
 
-    -   [**HW1_SETUP.txt**](https://drive.google.com/file/d/1njqHffuwPFfCh1TO-3d_2DRFyPelkGAG/view?usp=sharing){target="_blank"}
-
-    -   [**HW 1 Demo Video
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_epecznax/){target="_blank"}
 
 # Dashboard Project
 
