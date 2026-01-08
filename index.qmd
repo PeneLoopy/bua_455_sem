@@ -39,8 +39,7 @@ Form**](https://forms.gle/kuZi7aoLyEcBhqfK8){target="_blank"}
 -   If you are absent or have a temporary technical issue
     with POLL EVERYWHERE, use this Google form to explain.
 
-[**Spring 2026 BUA 455 Blackboard
-Site**](){target="_blank"}
+[**Spring 2026 BUA 455 Blackboard Site**](https://blackboard.syracuse.edu/ultra/courses/_555184_1/outline){target="_blank"}
 
 -   Engagement Questions, Assignments, and Tests will be
     submitted on Blackboard.
@@ -66,8 +65,7 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
     her own voice. It's worth your time to read and consider
     it.
 
-[**Permananent BUA 455
-Website**](){target="_blank"}
+[**Permananent BUA 455 Website**](){target="_blank"}
 
 -   This link provides permanent access to the most recent
     lecture slides, notes, and R projects after the semester
@@ -429,4 +427,3 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
     -   I will be using GitHub as the sole platform in a
         course I am developing, **Interactive Exploratory
         Data Analysis**.
-
