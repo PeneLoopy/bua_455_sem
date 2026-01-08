@@ -25,16 +25,14 @@ format: dashboard
 
 ## Row {height="70%"}
 
-[**Spring 2026
-Syllabus**](https://docs.google.com/document/d/1JUHyaWnGifw-f6i5rXJFKOIU0yhdBbL1MKCg1FxbQHY/edit?usp=sharing){target="_blank"}
+[**Spring 2026 Syllabus**](https://docs.google.com/document/d/1bqsRpi8fy_3lC846C9mSVjFgAE9srsrssxSqSbIqWw8/edit?usp=sharing){target="_blank"}
 
 -   NOTE: The order of the material varies slightly between
     semesters so the subjects covered in the syllabus may be
     updated as the semester progresses. I will always let
     you know if there are substantial changes.
 
-[**Spring Absence Explanation
-Form**](https://forms.gle/kuZi7aoLyEcBhqfK8){target="_blank"}
+[**Spring 2026 Absence Explanation Form**](https://forms.gle/kuZi7aoLyEcBhqfK8){target="_blank"}
 
 -   If you are absent or have a temporary technical issue
     with POLL EVERYWHERE, use this Google form to explain.
@@ -151,8 +149,7 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
 
 ## Row
 
-[***Poll
-Everywhere***](https://pollev.com/penelopepoolereisenbies685){target="_blank"
+[***Poll Everywhere***](https://pollev.com/penelopepoolereisenbies685){target="_blank"
 style="color: lightgreen"}
 
 My User Name: **penelopepoolereisenbies685**
