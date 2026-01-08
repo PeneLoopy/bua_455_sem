@@ -63,7 +63,7 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
     her own voice. It's worth your time to read and consider
     it.
 
-[**Permananent BUA 455 Website**](){target="_blank"}
+[**Permananent BUA 455 Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 -   This link provides permanent access to the most recent
     lecture slides, notes, and R projects after the semester
