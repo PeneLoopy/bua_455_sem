@@ -5,6 +5,27 @@ format: dashboard
 
 # Syllabus and Course Links
 
+```{r include=F}
+#| label: setup
+
+options(scipen=100)                         # suppress scientific notation
+                                            # install pacman if needed
+if (!require("pacman")) install.packages("pacman", repos = "http://lib.stat.cmu.edu/R/CRAN/")
+pacman::p_load(pacman, tidyverse, ggthemes, gridExtra, magrittr,
+               kableExtra, gt)
+
+#pacman::p_loaded()
+
+```
+
+```{r echo=F}
+#| label: created formatted date
+# create variables for inline code
+today <- Sys.Date()                                                # saves today's date
+today_fmt <- stamp("Saturday, January 1, 1999", quiet = T)(today)  # formats date
+
+```
+
 ## Row {height="30%"}
 
 ### Column
@@ -153,6 +174,10 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
 style="color: lightgreen"}
 
 My User Name: **penelopepoolereisenbies685**
+
+<br>
+
+**This website was last updated on `r today_fmt`.**
 
 <br>
 
