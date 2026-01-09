@@ -376,13 +376,11 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 # Dashboard Examples
 
--   [HW 5 - Part
-    1](https://rpubs.com/PeneLope_PE/1354958){target="_blank"}
+-   [**HW 5 - Part 1**](https://rpubs.com/PeneLope_PE/1354958){target="_blank"}
 
 <br>
 
--   [Dashboard Example
-    1](https://rpubs.com/PeneLope_PE/1276088){target="_blank"}
+-   [**Dashboard Example 1**](https://rpubs.com/PeneLope_PE/1276088){target="_blank"}
 
     -   This group created a highly customized color scheme
         which is not required.
@@ -395,8 +393,7 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [Dashboard Example
-    2](https://rpubs.com/PeneLope_PE/1276097){target="_blank"}
+-   [**Dashboard Example 2**](https://rpubs.com/PeneLope_PE/1276097){target="_blank"}
 
     -   This group used the default theme which is fine, but
         it is easy to change.
@@ -409,8 +406,7 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [Dashboard Example
-    3](https://rpubs.com/PeneLope_PE/1276115){target="_blank"}
+-   [**Dashboard Example 3**](https://rpubs.com/PeneLope_PE/1276115){target="_blank"}
 
     -   This group used a packaged dashboard theme and
         complementary color pallettes that enhanced their
@@ -428,8 +424,7 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [Dashboard Example
-    4](https://rpubs.com/PeneLope_PE/1300146){target="_blank"}
+-   [**Dashboard Example 4**](https://rpubs.com/PeneLope_PE/1300146){target="_blank"}
 
     -   This group did some interesting work and I am
         including this example because it corresponds to the
@@ -437,8 +432,7 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [Presentation to 6th Grade
-    Class](https://peneloopy.github.io/sixth_grade_2025/survey_dashboard.html#){target="_blank"}
+-   [**Presentation to 6th Grade Class**](https://peneloopy.github.io/sixth_grade_2025/survey_dashboard.html#){target="_blank"}
 
     -   In May of 2025, I asked two sixth grade classes to
         complete an anonymous survey and then I created a
