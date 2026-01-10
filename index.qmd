@@ -46,19 +46,22 @@ today_fmt <- stamp("Saturday, January 1, 1999", quiet = T)(today)  # formats dat
 
 ## Row {height="70%"}
 
-[**Spring 2026 Syllabus**](https://docs.google.com/document/d/1bqsRpi8fy_3lC846C9mSVjFgAE9srsrssxSqSbIqWw8/edit?usp=sharing){target="_blank"}
+[**Spring 2026
+Syllabus**](https://docs.google.com/document/d/1bqsRpi8fy_3lC846C9mSVjFgAE9srsrssxSqSbIqWw8/edit?usp=sharing){target="_blank"}
 
 -   NOTE: The order of the material varies slightly between
     semesters so the subjects covered in the syllabus may be
     updated as the semester progresses. I will always let
     you know if there are substantial changes.
 
-[**Spring 2026 Absence Explanation Form**](https://forms.gle/kuZi7aoLyEcBhqfK8){target="_blank"}
+[**Spring 2026 Absence Explanation
+Form**](https://forms.gle/kuZi7aoLyEcBhqfK8){target="_blank"}
 
 -   If you are absent or have a temporary technical issue
     with POLL EVERYWHERE, use this Google form to explain.
 
-[**Spring 2026 BUA 455 Blackboard Site**](https://blackboard.syracuse.edu/ultra/courses/_555184_1/outline){target="_blank"}
+[**Spring 2026 BUA 455 Blackboard
+Site**](https://blackboard.syracuse.edu/ultra/courses/_555184_1/outline){target="_blank"}
 
 -   Engagement Questions, Assignments, and Tests will be
     submitted on Blackboard.
@@ -84,7 +87,8 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
     her own voice. It's worth your time to read and consider
     it.
 
-[**Permananent BUA 455 Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
+[**Permananent BUA 455
+Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 -   This link provides permanent access to the most recent
     lecture slides, notes, and R projects after the semester
@@ -128,14 +132,14 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
         Visualization](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization?u=76816226){target="_blank"}
 
         -   This training is optional and provides a good
-            introduction to R and RStudion whch are used in
+            introduction to R and RStudio which are used in
             this course.
 
     -   [Python Essential
         Training](https://www.linkedin.com/learning/python-essential-training-18764650?u=76816226){target="_blank"}
 
         -   Python is not used in this course but it is
-            helpful for Analytics and Data Science.
+            helpful for analytics and data science.
 
 <br>
 
@@ -151,7 +155,7 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
     Initiative](https://whitman.syracuse.edu/experiential-learning/wire-initiative){target="_blank"}
 
     -   The WIRE initiative will subsidize costs of online
-        software training the results in certification.
+        software training that results in certification.
 
     -   Contact their office to arrange a meeting and
         develop a plan.
@@ -170,7 +174,8 @@ AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=
 
 ## Row
 
-[***Poll Everywhere***](https://pollev.com/penelopepoolereisenbies685){target="_blank"
+[***Poll
+Everywhere***](https://pollev.com/penelopepoolereisenbies685){target="_blank"
 style="color: lightgreen"}
 
 My User Name: **penelopepoolereisenbies685**
@@ -204,14 +209,16 @@ My User Name: **penelopepoolereisenbies685**
 
 -   **Homework 1 - Parts 2 and 3:**
 
-    - Instructions and demo videos for this assignment will be posted on Monday, January 12th and we will go over the steps together in class.
-    
-    - This assignment will help you gain familiarity with:
-    
-       - R project file structure and management.
-       
-       - some basic R commands and syntax we will use all semester long.
+    -   Instructions and demo videos for this assignment
+        will be posted on Monday, January 12th and we will
+        go over the steps together in class.
 
+    -   This assignment will help you gain familiarity with:
+
+        -   R project file structure and management.
+
+        -   some basic R commands and syntax we will use all
+            semester long.
 
 # Dashboard Project
 
@@ -376,11 +383,13 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 # Dashboard Examples
 
--   [**HW 5 - Part 1**](https://rpubs.com/PeneLope_PE/1354958){target="_blank"}
+-   [**HW 5 - Part
+    1**](https://rpubs.com/PeneLope_PE/1354958){target="_blank"}
 
 <br>
 
--   [**Dashboard Example 1**](https://rpubs.com/PeneLope_PE/1276088){target="_blank"}
+-   [**Dashboard Example
+    1**](https://rpubs.com/PeneLope_PE/1276088){target="_blank"}
 
     -   This group created a highly customized color scheme
         which is not required.
@@ -393,7 +402,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [**Dashboard Example 2**](https://rpubs.com/PeneLope_PE/1276097){target="_blank"}
+-   [**Dashboard Example
+    2**](https://rpubs.com/PeneLope_PE/1276097){target="_blank"}
 
     -   This group used the default theme which is fine, but
         it is easy to change.
@@ -406,7 +416,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [**Dashboard Example 3**](https://rpubs.com/PeneLope_PE/1276115){target="_blank"}
+-   [**Dashboard Example
+    3**](https://rpubs.com/PeneLope_PE/1276115){target="_blank"}
 
     -   This group used a packaged dashboard theme and
         complementary color pallettes that enhanced their
@@ -424,7 +435,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [**Dashboard Example 4**](https://rpubs.com/PeneLope_PE/1300146){target="_blank"}
+-   [**Dashboard Example
+    4**](https://rpubs.com/PeneLope_PE/1300146){target="_blank"}
 
     -   This group did some interesting work and I am
         including this example because it corresponds to the
@@ -432,7 +444,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
--   [**Presentation to 6th Grade Class**](https://peneloopy.github.io/sixth_grade_2025/survey_dashboard.html#){target="_blank"}
+-   [**Presentation to 6th Grade
+    Class**](https://peneloopy.github.io/sixth_grade_2025/survey_dashboard.html#){target="_blank"}
 
     -   In May of 2025, I asked two sixth grade classes to
         complete an anonymous survey and then I created a
