@@ -205,16 +205,28 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 1 - 2026-01-13 - 12:30
             PM**](https://video.syr.edu/media/t/1_jrqevb76/398925753){target="_blank"}
+            
+        -   [**Lecture 2 - 2026-01-15 - 12:30
+            PM**](https://video.syr.edu/media/t/1_u0wrjvol/398925753){target="_blank"}
+            
+        -   **NOTE:** In response to request, captions will be included in videos going forward. Please note that the captions are 96-97% accurate, but not perfect and the accuracy may decrease when I use technical terminology.  Please let me know if you have a question.
 
 <br>
 
--   **Week 2 PREVIEW: Introduction to dplyr commands and ggplot**
+-   **Week 2 PREVIEW: Introduction to dplyr commands and
+    ggplot**
 
-    -   [**PREVIEW Slides**](https://rpubs.com/PeneLope_PE/1215286){target="_blank"}
+    -   [**PREVIEW
+        Slides**](https://rpubs.com/PeneLope_PE/1215286){target="_blank"}
 
-    -   [**PREVIEW Notes**](https://rpubs.com/PeneLope_PE/1215287){target="_blank"}
-    
-    - **NOTE:** Normally lecture slides and notes for each week are provided at the beginning of the week.  For week 2 only, I am providing a preview version because the first few slides have helpful guidance on RStudio options you may want to change.
+    -   [**PREVIEW
+        Notes**](https://rpubs.com/PeneLope_PE/1215287){target="_blank"}
+
+    -   **NOTE:** Normally lecture slides and notes for each
+        week are provided at the beginning of the week. For
+        week 2 only, I am providing a preview version
+        because the first few slides have helpful guidance
+        on RStudio options you may want to change.
 
 # Homework Assignments
 
