@@ -201,6 +201,11 @@ My User Name: **penelopepoolereisenbies685**
         -   Unzip and save unzipped project folder to BUA
             455 folder on your desktop.
 
+    -   **Video Recordings**
+
+        -   [**Lecture 3 - 2026-01-20 - 12:30
+            PM**](https://video.syr.edu/media/t/1_6vto5gkp/398925753){target="_blank"}
+
 <br>
 
 -   **Week 1: R Projects, R Quarto Files, and R Syntax**
@@ -226,7 +231,7 @@ My User Name: **penelopepoolereisenbies685**
         -   [**Lecture 2 - 2026-01-15 - 12:30
             PM**](https://video.syr.edu/media/t/1_u0wrjvol/398925753){target="_blank"}
 
-        -   **NOTE:** In response to request, captions will
+        -   **NOTE:** In response to a request, captions will
             be included in videos going forward. Please note
             that the captions are 96-97% accurate, but not
             perfect and the accuracy may decrease when I use
