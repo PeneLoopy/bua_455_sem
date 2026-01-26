@@ -186,6 +186,23 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 3: Reshaping and Summarizing Data**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1217848){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1217850){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1IpThEkRuYpME6PIdv_j9pOQ5gUpfaeuj/view?usp=sharing){target="_blank"}
+
+    -   [**Week 3 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1oLSUXtXYeHnsUdrkn3SpYZDU0NZdZNTc/view?usp=sharing){target="_blank"}
+
+        -   Unzip and save unzipped project folder to BUA
+            455 folder on your desktop.
+
+<br>
+
 -   **Week 2: Introduction to dplyr commands and ggplot**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1215286){target="_blank"}
