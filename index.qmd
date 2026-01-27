@@ -262,6 +262,23 @@ My User Name: **penelopepoolereisenbies685**
 
 ## Row
 
+-   **Homework 3:**
+
+    -   [**HW 3
+        Instructions**](https://rpubs.com/PeneLope_PE/1216489){target="_blank"}
+
+    -   [**HW3_Template.qmd**](https://drive.google.com/file/d/1oFMkCRKE1qWB7GEOIlajK0psDVyAzHs0/view?usp=sharing){target="_blank"}
+
+    -   [**DATA: Box_Office_Mojo_Week3_HW3.csv - Save to
+        `data`
+        folder**](https://drive.google.com/file/d/1oB_nLuLZ_KagGeCkrsqmGs1tFZGrHw1l/view?usp=sharing){target="_blank"}
+
+    -   [**R Project - README
+        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+
+    -   [**HW 3 Demo Video
+        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_b5xeucc6/){target="_blank"}
+
 <br>
 
 -   **Homework 2:**
