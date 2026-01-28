@@ -33,7 +33,7 @@ today_fmt <- stamp("Saturday, January 1, 1999", quiet = T)(today)  # formats dat
 **Professor Pooler (pspooler\@syr.edu) - Office: WSOM Room
 518**
 
--   In-Person Hours: Tue. Thu. 3:30 PM - 4:30 PM
+-   In-Person Hours: Tue. Thu. 5:00 PM - 5:45 PM
 -   Zoom Hours: Mon. Wed. 4:30 PM - 5:30 PM - [**Zoom Hrs.
     Link**](https://syracuseuniversity.zoom.us/j/96889308509){target="_blank"}
 -   Also available by appointment on Zoom or in-person
