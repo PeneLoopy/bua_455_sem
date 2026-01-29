@@ -42,7 +42,7 @@ today_fmt <- stamp("Saturday, January 1, 1999", quiet = T)(today)  # formats dat
 
 **Teaching Assistant: Available by Appt.**
 
--   TBD
+-   Arjun Pendharkar - apendhar@syr.edu
 
 ## Row {height="70%"}
 
@@ -200,7 +200,7 @@ My User Name: **penelopepoolereisenbies685**
 
         -   Unzip and save unzipped project folder to BUA
             455 folder on your desktop.
-            
+
     -   **Video Recordings**
 
         -   [**Lecture 5 - 2026-01-27 - 12:30
