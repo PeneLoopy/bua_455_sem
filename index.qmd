@@ -42,7 +42,7 @@ today_fmt <- stamp("Saturday, January 1, 1999", quiet = T)(today)  # formats dat
 
 **Teaching Assistant: Available by Appt.**
 
--   Arjun Pendharkar - apendhar@syr.edu
+-   Arjun Pendharkar - apendhar\@syr.edu
 
 ## Row {height="70%"}
 
@@ -205,6 +205,9 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 5 - 2026-01-27 - 12:30
             PM**](https://video.syr.edu/media/t/1_axur1z2s/398925753){target="_blank"}
+            
+        -   [**Lecture 6 - 2026-01-29 - 12:30
+            PM**](https://video.syr.edu/media/t/1_ruji5fox/398925753){target="_blank"}
 
 <br>
 
