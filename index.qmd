@@ -186,6 +186,22 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 4: Combining Skills and Quiz Review**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1221027){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1221030){target="_blank"}
+
+    -   [**Notes PDF**](https://drive.google.com/file/d/1Irb5c6TayC-NyqvOF6_PsQIHxwteM01H/view?usp=sharing){target="_blank"}
+
+    -   [**Week 4 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1zLMDnxcfStFY8VPmpK57rN7_Uc4YniCp/view?usp=sharing){target="_blank"}
+
+        -   Unzip and save unzipped project folder to BUA
+            455 folder on your desktop.
+
+<br>
+
 -   **Week 3: Reshaping and Summarizing Data**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1217848){target="_blank"}
@@ -205,7 +221,7 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 5 - 2026-01-27 - 12:30
             PM**](https://video.syr.edu/media/t/1_axur1z2s/398925753){target="_blank"}
-            
+
         -   [**Lecture 6 - 2026-01-29 - 12:30
             PM**](https://video.syr.edu/media/t/1_ruji5fox/398925753){target="_blank"}
 
