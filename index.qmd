@@ -3,7 +3,7 @@ title: ""
 format: dashboard
 ---
 
-# Syllabus and Course Links
+# Syllabus and Course Links 
 
 ```{r include=F}
 #| label: setup
