@@ -3,7 +3,7 @@ title: ""
 format: dashboard
 ---
 
-# Syllabus and Course Links 
+# Syllabus and Course Links
 
 ```{r include=F}
 #| label: setup
@@ -46,8 +46,7 @@ today_fmt <- stamp("Saturday, January 1, 1999", quiet = T)(today)  # formats dat
 
 ## Row {height="70%"}
 
-[**Spring 2026
-Syllabus**](https://docs.google.com/document/d/1bqsRpi8fy_3lC846C9mSVjFgAE9srsrssxSqSbIqWw8/edit?usp=sharing){target="_blank"}
+[**Spring 2026 Syllabus**](https://docs.google.com/document/d/1bqsRpi8fy_3lC846C9mSVjFgAE9srsrssxSqSbIqWw8/edit?usp=sharing){target="_blank"}
 
 -   NOTE: The order of the material varies slightly between
     semesters so the subjects covered in the syllabus may be
