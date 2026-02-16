@@ -186,6 +186,20 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 6: Reshaping. Cleaning, and Joining Data**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1226774){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1226777){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1LUym1aUPRd3rvv0DMkJ7ym5GAZhDBJKG/view?usp=sharing){target="_blank"}
+
+    -   [**Week 6 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing){target="_blank"}
+
+<br>
+
 -   **Week 5: Cheat Sheets, AI, Functions, and Review**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1342482){target="_blank"}
@@ -197,7 +211,7 @@ My User Name: **penelopepoolereisenbies685**
 
     -   [**Week 5 Zipped R Project to
         Download**](https://drive.google.com/file/d/16OOunZmUWf-SgBThe89KBmaeEi9j24l4/view?usp=sharing){target="_blank"}
-        
+
     -   **Video Recordings**
 
         -   [**Lecture 9 - 2026-02-10 - 12:30
@@ -313,6 +327,25 @@ My User Name: **penelopepoolereisenbies685**
 # Homework Assignments
 
 ## Row
+
+-   **Homework 4:**
+
+    -   [**HW 4
+        Instructions**](https://rpubs.com/PeneLope_PE/1226728){target="_blank"}
+
+    -   [**HW4_Template.qmd**](https://drive.google.com/file/d/1DFE4VnAdDAmhqIKuSJictN7Ilk6bIZRw/view?usp=sharing){target="_blank"}
+
+    -   [**DATA: HW4_data_files.zip - Unzip and save 3 data
+        files to `data`
+        folder**](https://drive.google.com/file/d/16lmXwBw3H9_9kiYjXzTupJOrMIN84eh1/view?usp=sharing){target="_blank"}
+
+    -   [**R Project - README
+        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+
+    -   [**HW 4 Demo Video
+        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_yc5vl2le/){target="_blank"}
+        
+<br>
 
 -   **Homework 3:**
 
