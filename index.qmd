@@ -184,6 +184,20 @@ My User Name: **penelopepoolereisenbies685**
 
 **This website was last updated on `r today_fmt`.**
 
+-   **Week 7: Time Series, Data Formats, Output Formats, Project Introduction**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1353094){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1401052){target="_blank"}
+
+    -   [**Notes PDF**](https://drive.google.com/file/d/1M0POE7sdSIcB9CT7ZtSAjymCm63f6x-A/view?usp=sharing){target="_blank"}
+
+    -   [**Week 7 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1-4eMBxDAzWhsjrL2yXzylF6kfAFOuq4K/view?usp=sharing){target="_blank"}
+
+
+
+
 <br>
 
 -   **Week 6: Reshaping. Cleaning, and Joining Data**
@@ -197,11 +211,14 @@ My User Name: **penelopepoolereisenbies685**
 
     -   [**Week 6 Zipped R Project to
         Download**](https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing){target="_blank"}
-        
+
     -   **Video Recordings**
 
         -   [**Lecture 11 - 2026-02-17 - 12:30
             PM**](https://video.syr.edu/media/t/1_gzwsskij/398925753){target="_blank"}
+
+        -   [**Lecture 12 - 2026-02-19 - 12:30
+            PM**](https://video.syr.edu/media/t/1_ln84wzga/398925753){target="_blank"}
 
 <br>
 
@@ -559,8 +576,9 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 # Dashboard Examples
 
--   [**HW 5 - Part
-    1**](https://rpubs.com/PeneLope_PE/1354958){target="_blank"}
+-   [**HW 5 - Part 1 - Quarto Publish**](https://penelope2040.quarto.pub/bua-455---hw-5/){target="_blank"}
+    
+-   [**HW 5 - Part 1 - RPubs**](https://rpubs.com/PeneLope_PE/1229274){target="_blank"}
 
 <br>
 
