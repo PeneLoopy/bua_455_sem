@@ -184,6 +184,24 @@ My User Name: **penelopepoolereisenbies685**
 
 **This website was last updated on `r today_fmt`.**
 
+<br>
+
+-   **Week 8: Dashboard Project Proposal & Data Cleaning**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1232783){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1232858){target="_blank"}
+
+    -   [**Notes PDF - Student version**](https://drive.google.com/file/d/1M7E1UqvuBXuNR8uDPFP4e0sc3oYB5pXz/view?usp=sharing){target="_blank"}
+
+    -   [**Week 8 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1M9UtFPvF0H46WYNrK5cPFNgcT6o0786C/view?usp=sharing){target="_blank"}
+
+    -   [**Week 7 In-class Exercise
+        Screenshot**](https://drive.google.com/file/d/1Kwr0hYUW_uzwxSKqaQ5w6V4u1HKXvvFI/view?usp=sharing){target="_blank"}
+        
+<br>
+
 -   **Week 7: Time Series, Data Formats, Output Formats,
     Project Introduction**
 
@@ -356,6 +374,30 @@ My User Name: **penelopepoolereisenbies685**
 # Homework Assignments
 
 ## Row
+
+-   **Homework 5 - Part 1:**
+
+    -   [**HW 5 - Part 1
+        Instructions**](https://rpubs.com/PeneLope_PE/1232737){target="_blank"}
+
+    -   [**HW 5 - Part 1.zip (Zipped R
+        project)**](https://drive.google.com/file/d/10KFJvewY50mNdhqwykG0EsxwFaA4qSwJ/view?usp=sharing){target="_blank"}
+
+    -   [**setup_data_mgmt_chunks.txt**](https://drive.google.com/file/d/10I2KeSl3ABhZ9rzbBdzMuaVyoT2UEiy-/view?usp=sharing){target="_blank"}
+
+    -   [**R Project - README
+        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+
+    -   [**Example Completed Dashboard with TV
+        Data**](https://rpubs.com/PeneLope_PE/1229274){target="_blank"}
+
+    -   [**HW 5 - Part 1 - Demo Video Playlist
+        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_u90z1wia/){target="_blank"}
+
+        -   [**OPTIONAL Extra Credit
+            Demo**](https://video.syr.edu/media/t/1_zafd4usy/353201892){target="_blank"}
+
+<br>
 
 -   **Homework 4:**
 
@@ -660,3 +702,33 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
     -   I will be using GitHub as the sole platform in a
         course I am developing, **Interactive Exploratory
         Data Analysis**.
+
+# Proposal Component Examples
+
+**Proposal Examples**
+
+-   [**Rough Draft Proposal Example**](https://drive.google.com/file/d/1PLaEhDbTvmJFB7UAHiSFC5h5dFgW-J0W/view?usp=sharing){target="_blank"}
+
+    -   This example is provided as guidance NOT a template
+        to follow.
+
+    -   Your group's rough draft proposal does not have to
+        look exactly like this or have this exact number of
+        questions or data sources.
+
+<br>
+
+-   [**Final Proposal
+    Example**](https://drive.google.com/file/d/1e_ugNG3E2ozmzTRqiLcCSm8RLyYBsZq9/view?usp=sharing){target="_blank"}
+
+    -   This group added their final proposal to their rough
+        draft text which is okay.
+
+    -   Adding your final proposal to your draft proposal is
+        not required, but if you choose to do this, don't
+        worry about the page limit suggestion.
+
+    -   Again, this example is provided as guidance, not a
+        template but **I do want the final proposal to be
+        explicit about what will be on each page and who is
+        responsible for each page.**
