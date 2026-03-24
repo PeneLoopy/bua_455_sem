@@ -186,15 +186,22 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
--   **Week 10 - Introduction To Geographic Data and Quiz 2 Information**
+-   **Week 10 - Introduction To Geographic Data and Quiz 2
+    Information**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1412976){target="_blank"}
 
     -   [**Notes**](https://rpubs.com/PeneLope_PE/1412982){target="_blank"}
 
-    -   [**Notes PDF**](https://drive.google.com/file/d/1G273IGw4Za8hUcp2galJ4-ehSZkXqScp/view?usp=sharing){target="_blank"}
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1G273IGw4Za8hUcp2galJ4-ehSZkXqScp/view?usp=sharing){target="_blank"}
 
-    -   [**Week 10 Zipped R Project to Download**](https://drive.google.com/file/d/18pl9Fn50kEQCd4w7OJj7f8Uw6QcfQGmv/view?usp=sharing){target="_blank"}
+    -   [**Week 10 Zipped R Project to
+        Download**](https://drive.google.com/file/d/18pl9Fn50kEQCd4w7OJj7f8Uw6QcfQGmv/view?usp=sharing){target="_blank"}
+        
+    -   [**Example of Empty Dashboard Template**](https://posit.cloud/content/11448615){target="_blank"}
+    
+        - NOTE: Some citations in these templates are out of date and will be updated next week.
 
 <br>
 
@@ -214,10 +221,9 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 17 - 2026-03-17 - 12:30
             PM**](https://video.syr.edu/media/t/1_pcsd4bl5/398925753){target="_blank"}
-            
+
         -   [**Lecture 18 - 2026-03-19 - 12:30
             PM**](https://video.syr.edu/media/t/1_68kwbgi3/398925753){target="_blank"}
-
 
 <br>
 
