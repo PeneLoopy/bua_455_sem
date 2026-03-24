@@ -186,6 +186,18 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 10 - Introduction To Geographic Data and Quiz 2 Information**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1412976){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1412982){target="_blank"}
+
+    -   [**Notes PDF**](https://drive.google.com/file/d/1G273IGw4Za8hUcp2galJ4-ehSZkXqScp/view?usp=sharing){target="_blank"}
+
+    -   [**Week 10 Zipped R Project to Download**](https://drive.google.com/file/d/18pl9Fn50kEQCd4w7OJj7f8Uw6QcfQGmv/view?usp=sharing){target="_blank"}
+
+<br>
+
 -   **Week 9: HW 5-Part 1 and Related Skills**
 
     -   [**Slides**](https://rpubs.com/PeneLope_PE/1236191){target="_blank"}
