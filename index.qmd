@@ -198,10 +198,17 @@ My User Name: **penelopepoolereisenbies685**
 
     -   [**Week 10 Zipped R Project to
         Download**](https://drive.google.com/file/d/18pl9Fn50kEQCd4w7OJj7f8Uw6QcfQGmv/view?usp=sharing){target="_blank"}
-        
-    -   [**Example of Empty Dashboard Template**](https://posit.cloud/content/11448615){target="_blank"}
-    
-        - NOTE: Some citations in these templates are out of date and will be updated next week.
+
+    -   [**Example of Empty Dashboard
+        Template**](https://posit.cloud/content/11448615){target="_blank"}
+
+        -   NOTE: Some citations in these templates are out
+            of date and will be updated next week.
+            
+    -   **Video Recordings**
+
+        -   [**Lecture 19 - 2026-03-24 - 12:30
+            PM**](https://video.syr.edu/media/t/1_u92np5od/398925753){target="_blank"}
 
 <br>
 
