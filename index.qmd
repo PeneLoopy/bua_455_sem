@@ -186,6 +186,20 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Weeks 11 and  12: - More on Geographic Data, Project Management, and Publishing a Dashboard**
+
+    -   [**Slides**](https://rpubs.com/PeneLope_PE/1415845){target="_blank"}
+
+    -   [**Notes**](https://rpubs.com/PeneLope_PE/1415874){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1QP21SpVNdKY3OlM9-WMmc-rte89LSGGG/view?usp=sharing){target="_blank"}
+
+    -   [**Weeks 11 and 12 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1DXzCU_1nKY2L4oRwYWORavOt9Ut_WrFs/view?usp=sharing){target="_blank"}
+
+<br>
+
 -   **Week 10 - Introduction To Geographic Data and Quiz 2
     Information**
 
@@ -204,8 +218,11 @@ My User Name: **penelopepoolereisenbies685**
 
         -   NOTE: Some citations in these templates are out
             of date and will be updated next week.
-            
+
     -   **Video Recordings**
+    
+        -   [**Lecture 20 - 2026-03-26 - 12:30
+            PM**](https://video.syr.edu/media/t/1_ye68jqg6/398925753){target="_blank"}
 
         -   [**Lecture 19 - 2026-03-24 - 12:30
             PM**](https://video.syr.edu/media/t/1_u92np5od/398925753){target="_blank"}
@@ -431,6 +448,31 @@ My User Name: **penelopepoolereisenbies685**
 # Homework Assignments
 
 ## Row
+
+-   **Homework 5 - Part 2:**
+
+    -   [**HW 5 - Part 2 - Posit Cloud
+        Project**](https://posit.cloud/content/10125821){target="_blank"}
+
+    -   [**HW 5 - Part 2
+        Instructions**](https://rpubs.com/PeneLope_PE/1244948){target="_blank"}
+
+    -   [**HW 5 - Part 2 - Text Files.zip (Upload Zipped
+        folder of 4 text files to project
+        folder.)**](https://drive.google.com/file/d/1dai8SJ2ZUhOYK_cU2I9rBXYeUaWrEzoR/view?usp=sharing){target="_blank"}
+
+    -   [**HW 5 - Part 2 - NewData.zip (Upload Zipped folder
+        of two `.csv` files to `data`
+        folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
+
+    -   [**HW5_Pt2_Page1_Graphic.png (Upload `.png` file to
+        `img`
+        folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
+
+    -   [**HW 5 - Part 2 - Demo Video Playlist
+        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_mf93jpe8/){target="_blank"}
+
+<br>
 
 -   **Homework 5 - Part 1:**
 
