@@ -808,7 +808,7 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
         course I am developing, **Interactive Exploratory
         Data Analysis**.
 
-# Proposal Component Examples
+# Project Component Examples
 
 **Proposal Examples**
 
