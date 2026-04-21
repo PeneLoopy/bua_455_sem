@@ -187,18 +187,19 @@ My User Name: **penelopepoolereisenbies685**
 <br>
 
 -   **Week 14:**
-  - **Tue: Q&A and  In-class Work Day**
-  - **Thu: Presentations**
 
-    -   I will take attendance on Tuesday using Poll Everywhere.
+-   **Tue: Q&A and In-class Work Day**
 
-    -   On Tuesday, I will also step out for five minutes so students
-        can complete [**course evaluations**](http://coursefeedback.syr.edu/){target="_blank"}.
+-   **Thu: Presentations**
 
+    -   I will take attendance on Tuesday using Poll
+        Everywhere.
+    -   On Tuesday, I will also step out for five minutes so
+        students can complete [**course
+        evaluations**](http://coursefeedback.syr.edu/){target="_blank"}.
     -   The rest of Tuesday's class period will be used for
         project groups to meet and ask me questions, if
         needed.
-
     -   Please keep in mind that if you need my help with
         coding, it is best to send me the file (or upload it
         to Posit Cloud) and send me your questions ahead of
@@ -223,7 +224,7 @@ My User Name: **penelopepoolereisenbies685**
 
         -   [**Lecture 25 - 2026-04-14 - 12:30
             PM**](https://video.syr.edu/media/t/1_9m5wh8rw/398925753){target="_blank"}
-            
+
         -   [**Lecture 26 - 2026-04-16 - 12:30
             PM**](https://video.syr.edu/media/t/1_0pliymhr/398925753){target="_blank"}
 
