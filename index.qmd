@@ -352,7 +352,7 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 **NOTES:**  
 
-- Some examples from former students were published using RPubs which is being discotinued.  
+- Some examples from former students were published using RPubs which is being discontinued.  
 
 - All BUA 455 dashboards will be published using [Posit Connect Cloud](https://connect.posit.cloud/) 
 
