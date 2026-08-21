@@ -115,8 +115,7 @@ Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 <br>
 
-- [Posit Connect
-  Cloud](https://connect.posit.cloud/){target="_blank"} -
+- [Posit Connect Cloud](https://connect.posit.cloud/){target="_blank"} -
   Free and required after Quiz 2
 
 **Software Training**
