@@ -100,7 +100,7 @@ Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 - [R](https://cran.r-project.org/){target="_blank"} -
   Required all semester
 
-- [RStudio](https://posit.co/download/rstudio-desktop/){target="_blank"} -
+- [RStudio](https://posit.co/products/open-source/rstudio){target="_blank"} -
   Required all semester
 
 - [Quarto](https://quarto.org/docs/get-started/){target="_blank"} -
