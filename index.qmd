@@ -69,10 +69,11 @@ Site**](https://blackboard.syracuse.edu/ultra/courses/_575743_1/outline){target=
 [**White Paper about Analytics
 Skillset**](https://drive.google.com/file/d/1VeTiSBfdiMQi3leZ6MSzSDWHXfvtnp9J/view?usp=sharing){target="_blank"}
 
-- Starting on Page 10, this white paper provides specific language about different roles in data analytics.
+- Starting on Page 10, this white paper provides specific
+  language about different roles in data analytics.
 
-- This section of this white paper may be helpful as you try to explain your
-  skillset in interviews.
+- This section of this white paper may be helpful as you try
+  to explain your skillset in interviews.
 
 [**Read this letter about
 AI**](https://www.nytimes.com/2025/06/18/learning/we-need-to-chat-gpt.html?smid=url-share){target="_blank"}
@@ -114,20 +115,25 @@ Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 <br>
 
-- [Posit Connect Cloud](https://connect.posit.cloud/){target="_blank"} - Free and required after Quiz 2
+- [Posit Connect
+  Cloud](https://connect.posit.cloud/){target="_blank"} -
+  Free and required after Quiz 2
 
 **Software Training**
 
-- [LinkedIn Learning](https://linkedinlearning.syr.edu/){target="_blank"} -
+- [LinkedIn
+  Learning](https://linkedinlearning.syr.edu/){target="_blank"} -
   Free for Syracuse University Students, Staff, and Faculty
 
-  - [R for Data Science: Analysis and Visualization](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization?u=76816226){target="_blank"}
+  - [R for Data Science: Analysis and
+    Visualization](https://www.linkedin.com/learning/r-for-data-science-analysis-and-visualization?u=76816226){target="_blank"}
 
     - This training is optional and provides a good
       introduction to R and RStudio which are used in this
       course.
 
-  - [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650?u=76816226){target="_blank"}
+  - [Python Essential
+    Training](https://www.linkedin.com/learning/python-essential-training-18764650?u=76816226){target="_blank"}
 
     - Python is not used in this course but it is helpful
       for analytics and data science.
@@ -142,7 +148,8 @@ Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 <br>
 
-- [Whitman WIRE Initiative](https://whitman.syracuse.edu/experiential-learning/wire-initiative){target="_blank"}
+- [Whitman WIRE
+  Initiative](https://whitman.syracuse.edu/experiential-learning/wire-initiative){target="_blank"}
 
   - The WIRE initiative will subsidize costs of online
     software training that results in certification.
@@ -152,7 +159,8 @@ Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 <br>
 
-- [SU Open Source Program Office (OSPO)](https://opensource.syracuse.edu/){target="_blank"}
+- [SU Open Source Program Office
+  (OSPO)](https://opensource.syracuse.edu/){target="_blank"}
 
   - OSPO offers workshops in open source software such as
     R/RStudio, Python, Github and facilitates communication
@@ -176,11 +184,12 @@ My User Name: **penelopepoolereisenbies685**
 
 - **Week 1: R Projects, R Quarto Files, and R Syntax**
 
-  - Slides, notes and the zipped R project for Week 1 will be posted on Monday, August 24th.
+  - Slides, notes and the zipped R project for Week 1 will
+    be posted on Monday, August 24th.
 
-  - Video recordings of lectures are not guaranteed. If there are no technical issues, recordings are usually posted the day after the lecture.
-
-
+  - Video recordings of lectures are not guaranteed. If
+    there are no technical issues, recordings are usually
+    posted the day after the lecture.
 
 # Homework Assignments
 
@@ -195,7 +204,7 @@ My User Name: **penelopepoolereisenbies685**
 ## Row
 
 [**Full Project Description and Grading
-Criteria**](https://docs.google.com/document/d/10r71bShq-wVjGw-jslcc3U2BvEfgmpAjVouK51v3foE/edit?usp=sharing){target="_blank"}
+Criteria**](https://docs.google.com/document/d/1LOqbiRK2eOG6F4sKpnTBZ8uti0XqruSBkksp1ChW2UA/edit?usp=sharing){target="_blank"}
 
 ## Row
 
@@ -222,16 +231,16 @@ Criteria**](https://docs.google.com/document/d/10r71bShq-wVjGw-jslcc3U2BvEfgmpAj
 - Student groups will develop a Data Dashboard.
 
 - In class, we will review how to use the [**Quarto
-  Dashboard format**](https://quarto.org/docs/gallery/#dashboards){target="_blank"}
+  Dashboard
+  format**](https://quarto.org/docs/gallery/#dashboards){target="_blank"}
   to publish a multi-page dashboard.
 
 - Each group will aggregate, manage, and curate data for a
   hypothetical client to address their data questions and
   needs.
 
-- One person in each group should ideally versee the
-  project as a whole and ensure that the dashboard is
-  cohesive.
+- One person in each group should ideally versee the project
+  as a whole and ensure that the dashboard is cohesive.
 
 - Each page can present a single plot, a set of plots, or a
   plot and a table, and should have explanatory text and
@@ -239,7 +248,7 @@ Criteria**](https://docs.google.com/document/d/10r71bShq-wVjGw-jslcc3U2BvEfgmpAj
 
 - The final page of your dashboard will include all
   citations for software, software packages, AI sources, and
-  data used to create your dashboard. 
+  data used to create your dashboard.
 
 # Interesting Data
 
@@ -350,29 +359,38 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 # Dashboard Examples
 
-**NOTES:**  
+**NOTES:**
 
-- Some examples from former students were published using RPubs which is being discontinued.  
+- Some examples from former students were published using
+  RPubs which is being discontinued.
 
-- All BUA 455 dashboards will be published using [Posit Connect Cloud](https://connect.posit.cloud/) 
-
-<br>
-
-- [**HW 5 - Part 1 - Posit Connect Cloud**](https://01a00bff-2d13-df40-216b-380e5c7cfdff.share.connect.posit.cloud/){target="_blank"}
+- All BUA 455 dashboards will be published using [Posit
+  Connect Cloud](https://connect.posit.cloud/)
 
 <br>
 
-- [**Dashboard Example 1**](https://01a00c09-61e4-354b-72a7-e4c7a419a1ef.share.connect.posit.cloud/#business-industry-growth)
-
-  - This example is from the Spring of 2026 when I had a smaller class and smaller groups (3-4 students).
-  
-  - This group organized their dashboard pages and displays in a very cohesive manner and managed the space on each page extremely well.
-  
-  - Additional bbackground theme colors can always be added but were not required.
+- [**HW 5 - Part 1 - Posit Connect
+  Cloud**](https://01a00bff-2d13-df40-216b-380e5c7cfdff.share.connect.posit.cloud/){target="_blank"}
 
 <br>
 
-- [**Dashboard Example 2**](https://rpubs.com/PeneLope_PE/1276088){target="_blank"}
+- [**Dashboard Example
+  1**](https://01a00c09-61e4-354b-72a7-e4c7a419a1ef.share.connect.posit.cloud/#business-industry-growth)
+
+  - This example is from the Spring of 2026 when I had a
+    smaller class and smaller groups (3-4 students).
+
+  - This group organized their dashboard pages and displays
+    in a very cohesive manner and managed the space on each
+    page extremely well.
+
+  - Additional bbackground theme colors can always be added
+    but were not required.
+
+<br>
+
+- [**Dashboard Example
+  2**](https://rpubs.com/PeneLope_PE/1276088){target="_blank"}
 
   - This group created a highly customized color scheme
     which is not required.
@@ -385,7 +403,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
-- [**Dashboard Example 3**](https://rpubs.com/PeneLope_PE/1276097){target="_blank"}
+- [**Dashboard Example
+  3**](https://rpubs.com/PeneLope_PE/1276097){target="_blank"}
 
   - This group used the default theme which is fine, but it
     is easy to change.
@@ -398,7 +417,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
-- [**Dashboard Example 4**](https://rpubs.com/PeneLope_PE/1276115){target="_blank"}
+- [**Dashboard Example
+  4**](https://rpubs.com/PeneLope_PE/1276115){target="_blank"}
 
   - This group used a packaged dashboard theme and
     complementary color pallettes that enhanced their
@@ -416,7 +436,8 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 <br>
 
-- [**Dashboard Example 5**](https://rpubs.com/PeneLope_PE/1300146){target="_blank"}
+- [**Dashboard Example
+  5**](https://rpubs.com/PeneLope_PE/1300146){target="_blank"}
 
   - This group did some interesting work and I am including
     this example because it corresponds to the example memos
@@ -437,5 +458,3 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
   - I will be using GitHub as the sole platform in a course
     I am developing, **Interactive Exploratory Data
     Analysis**.
-
-
