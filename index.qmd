@@ -170,7 +170,8 @@ Website**](https://peneloopy.github.io/bua_455_perm/){target="_blank"}
 
 ## Row
 
-[***Poll Everywhere***](https://pollev.com/penelopepoolereisenbies685){target="_blank"
+[***Poll
+Everywhere***](https://pollev.com/penelopepoolereisenbies685){target="_blank"
 style="color: lightgreen"}
 
 My User Name: **penelopepoolereisenbies685**
@@ -193,10 +194,16 @@ My User Name: **penelopepoolereisenbies685**
 
     - Unzip and save unzipped project folder to BUA 455
       folder on your desktop.
+      
+  - **Video Recordings** 
+    - [**Lecture 1 - 2026-08-25 - 9:30 AM**](https://video.syr.edu/media/t/1_e5z9qsb3/416621362){target="_blank"}
 
-  - **Video Recordings**
+    - [**Lecture 1 - 2026-08-25 - 2:00 PM**](https://video.syr.edu/media/t/1_ke5rtfc8/416621362){target="_blank"}
+    
+    - NOTE: The audio of the 9:30 AM recording is a little muffled at times.
+    
 
-     - Video recordings of lectures are not guaranteed. If there are no technical issues, recordings are usually posted the day after the lecture.
+<br>
 
 # Homework Assignments
 
@@ -204,11 +211,13 @@ My User Name: **penelopepoolereisenbies685**
 
 - **Homework 1 - Parts 2 and 3:**
 
-   - [**HW 1 Instructions**](https://01a00c72-b048-060a-4d50-033374d4be3d.share.connect.posit.cloud/){target="_blank"}
+  - [**HW 1
+    Instructions**](https://01a00c72-b048-060a-4d50-033374d4be3d.share.connect.posit.cloud/){target="_blank"}
 
-   - [**HW1_SETUP.txt**](https://drive.google.com/file/d/1njqHffuwPFfCh1TO-3d_2DRFyPelkGAG/view?usp=sharing){target="_blank"}
+  - [**HW1_SETUP.txt**](https://drive.google.com/file/d/1njqHffuwPFfCh1TO-3d_2DRFyPelkGAG/view?usp=sharing){target="_blank"}
 
-   - [**HW 1 Demo Video Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_epecznax/){target="_blank"}
+  - [**HW 1 Demo Video
+    Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_epecznax/){target="_blank"}
 
 # Dashboard Project
 
@@ -250,8 +259,9 @@ Criteria**](https://docs.google.com/document/d/1LOqbiRK2eOG6F4sKpnTBZ8uti0XqruSB
   hypothetical client to address their data questions and
   needs.
 
-- One person in each group should ideally oversee the project
-  as a whole and ensure that the dashboard is cohesive.
+- One person in each group should ideally oversee the
+  project as a whole and ensure that the dashboard is
+  cohesive.
 
 - Each page can present a single plot, a set of plots, or a
   plot and a table, and should have explanatory text and
