@@ -188,9 +188,17 @@ My User Name: **penelopepoolereisenbies685**
 
   - [**Notes**](https://01a05921-1f59-2aa4-5340-6d30462e97c7.share.connect.posit.cloud/){target="_blank"}
 
-  - [**Notes PDF**](https://drive.google.com/file/d/1IngBTEB-GuZJawBSBtD6ICc63CZRylEH/view?usp=sharing){target="_blank"}
+  - [**Notes
+    PDF**](https://drive.google.com/file/d/1IngBTEB-GuZJawBSBtD6ICc63CZRylEH/view?usp=sharing){target="_blank"}
 
-  - [**Week 2 Zipped R Project to Download**](https://drive.google.com/file/d/1o3GBPckHWmb3dCpk91f-9vqlRuXdwWet/view?usp=sharing){target="_blank"}
+  - [**Week 2 Zipped R Project to
+    Download**](https://drive.google.com/file/d/1o3GBPckHWmb3dCpk91f-9vqlRuXdwWet/view?usp=sharing){target="_blank"}
+    
+  - **Video Recordings**
+
+    - [**Lecture 3 - 2026-09-01 - 9:30 AM**](https://video.syr.edu/media/t/1_80vcajx6/416621362){target="_blank"}
+
+    - [**Lecture 3 - 2026-09-01 - 2:00 PM**](https://video.syr.edu/media/t/1_lwgklai8/416621362){target="_blank"}
 
 <br>
 
@@ -237,23 +245,28 @@ My User Name: **penelopepoolereisenbies685**
 
 - **Homework 2:**
 
-  - [**HW 2 Instructions**](https://01a058e9-e7fd-4519-2c12-f7c32a84964a.share.connect.posit.cloud/){target="_blank"}
+  - [**HW 2
+    Instructions**](https://01a058e9-e7fd-4519-2c12-f7c32a84964a.share.connect.posit.cloud/){target="_blank"}
 
   - [**HW2_Template.qmd**](https://drive.google.com/file/d/1o-kM0KC3qiEOwHWmw7I7GL8daGvOAGjd/view?usp=sharing){target="_blank"}
 
-  - [**R Project - README Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+  - [**R Project - README
+    Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
 
-  - [**HW 2 Demo Video Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_4ut6eiym/){target="_blank"}
+  - [**HW 2 Demo Video
+    Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_4ut6eiym/){target="_blank"}
 
 <br>
 
 - **Homework 1 - Parts 2 and 3:**
 
-  - [**HW 1 Instructions**](https://01a00c72-b048-060a-4d50-033374d4be3d.share.connect.posit.cloud/){target="_blank"}
+  - [**HW 1
+    Instructions**](https://01a00c72-b048-060a-4d50-033374d4be3d.share.connect.posit.cloud/){target="_blank"}
 
   - [**HW1_SETUP.txt**](https://drive.google.com/file/d/1njqHffuwPFfCh1TO-3d_2DRFyPelkGAG/view?usp=sharing){target="_blank"}
 
-  - [**HW 1 Demo Video Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_epecznax/){target="_blank"}
+  - [**HW 1 Demo Video
+    Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_epecznax/){target="_blank"}
 
 # Dashboard Project
 
