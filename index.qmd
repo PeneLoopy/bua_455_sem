@@ -182,6 +182,21 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 3: Reshaping and Summarizing Data**
+
+    -   [**Slides**](https://01a07d12-e8f0-6f9b-095b-1a3a924efad8.share.connect.posit.cloud/){target="_blank"}
+
+    -   [**Notes**](https://01a07d10-83a4-dfd2-fc1f-eae85ffe0af6.share.connect.posit.cloud/){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1IpThEkRuYpME6PIdv_j9pOQ5gUpfaeuj/view?usp=sharing){target="_blank"}
+
+    -   [**Week 3 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1oLSUXtXYeHnsUdrkn3SpYZDU0NZdZNTc/view?usp=sharing){target="_blank"}
+
+
+<br>
+
 - **Week 2: Introduction to dplyr commands and ggplot**
 
   - [**Slides**](https://01a05916-e10a-1eb5-66da-683dff88c4eb.share.connect.posit.cloud/){target="_blank"}
@@ -201,7 +216,7 @@ My User Name: **penelopepoolereisenbies685**
 
     - [**Lecture 3 - 2026-09-01 - 2:00
       PM**](https://video.syr.edu/media/t/1_lwgklai8/416621362){target="_blank"}
-      
+
     - [**Lecture 4 - 2026-09-03 - 9:30
       AM**](https://video.syr.edu/media/t/1_ov0kgtr2/416621362){target="_blank"}
 
@@ -250,6 +265,25 @@ My User Name: **penelopepoolereisenbies685**
 # Homework Assignments
 
 ## Row
+
+-   **Homework 3:**
+
+    -   [**HW 3
+        Instructions**](https://01a07cac-771d-cf29-cce6-94f94b7d31e4.share.connect.posit.cloud/){target="_blank"}
+
+    -   [**HW3_Template.qmd**](https://drive.google.com/file/d/1oFMkCRKE1qWB7GEOIlajK0psDVyAzHs0/view?usp=sharing){target="_blank"}
+
+    -   [**DATA: Box_Office_Mojo_Week3_HW3.csv - Save to
+        `data`
+        folder**](https://drive.google.com/file/d/1oB_nLuLZ_KagGeCkrsqmGs1tFZGrHw1l/view?usp=sharing){target="_blank"}
+
+    -   [**R Project - README
+        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+
+    -   [**HW 3 Demo Video
+        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_b5xeucc6/){target="_blank"}
+
+<br>
 
 - **Homework 2:**
 
