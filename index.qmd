@@ -182,6 +182,20 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+-   **Week 4: Combining Skills and Quiz Review**
+
+    -   [**Slides**](https://01a0a11f-ff0a-7fed-02d8-0db057c75366.share.connect.posit.cloud/){target="_blank"}
+
+    -   [**Notes**](https://01a0a124-77f8-60ea-7c73-e972cfcec9e9.share.connect.posit.cloud/){target="_blank"}
+
+    -   [**Notes
+        PDF**](https://drive.google.com/file/d/1Irb5c6TayC-NyqvOF6_PsQIHxwteM01H/view?usp=sharing){target="_blank"}
+
+    -   [**Week 4 Zipped R Project to
+        Download**](https://drive.google.com/file/d/1zLMDnxcfStFY8VPmpK57rN7_Uc4YniCp/view?usp=sharing){target="_blank"}
+
+<br>
+
 - **Week 3: Reshaping and Summarizing Data**
 
   - [**Slides**](https://01a07d12-e8f0-6f9b-095b-1a3a924efad8.share.connect.posit.cloud/){target="_blank"}
@@ -193,7 +207,7 @@ My User Name: **penelopepoolereisenbies685**
 
   - [**Week 3 Zipped R Project to
     Download**](https://drive.google.com/file/d/1oLSUXtXYeHnsUdrkn3SpYZDU0NZdZNTc/view?usp=sharing){target="_blank"}
-    
+
   - **Video Recordings**
 
     - [**Lecture 5 - 2026-09-08 - 9:30
@@ -201,7 +215,7 @@ My User Name: **penelopepoolereisenbies685**
 
     - [**Lecture 5 - 2026-09-08 - 2:00
       PM**](https://video.syr.edu/media/t/1_15rl42oj/416621362){target="_blank"}
-      
+
     - [**Lecture 6 - 2026-09-10 - 9:30
       AM**](https://video.syr.edu/media/t/1_ad5dwb9j/416621362){target="_blank"}
 
