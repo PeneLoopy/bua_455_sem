@@ -182,17 +182,26 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
--   **Week 6: Functions, Reshaping. Cleaning, and Joining Data**
+- **Week 6: Functions, Reshaping. Cleaning, and Joining
+  Data**
 
-    -   [**Slides**](https://01a0e914-9a3d-1027-64a5-15683fbf65c1.share.connect.posit.cloud/){target="_blank"}
+  - [**Slides**](https://01a0e914-9a3d-1027-64a5-15683fbf65c1.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**Notes**](https://01a0e966-470e-693c-0880-3b78f6e31b19.share.connect.posit.cloud/){target="_blank"}
+  - [**Notes**](https://01a0e966-470e-693c-0880-3b78f6e31b19.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1kfeIWLu2A9PUOdEPxhQKQDsf6Q081zlh/view?usp=sharing){target="_blank"}
+  - [**Notes
+    PDF**](https://drive.google.com/file/d/1kfeIWLu2A9PUOdEPxhQKQDsf6Q081zlh/view?usp=sharing){target="_blank"}
 
-    -   [**Week 6 Zipped R Project to
-        Download**](https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing){target="_blank"}
+  - [**Week 6 Zipped R Project to
+    Download**](https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing){target="_blank"}
+    
+  - **Video Recordings**
+
+    - [**Lecture 11 - 2026-09-29 - 9:30
+      AM**](https://video.syr.edu/media/t/1_zxm35g0h/416621362){target="_blank"}
+
+    - [**Lecture 11 - 2026-09-29 - 2:00
+      PM**](https://video.syr.edu/media/t/1_g85vv1ed/416621362){target="_blank"}
 
 <br>
 
@@ -321,23 +330,22 @@ My User Name: **penelopepoolereisenbies685**
 
 ## Row
 
--   **Homework 4:**
+- **Homework 4:**
 
-    -   [**HW 4
-        Instructions**](https://01a0e9ca-474f-8b31-b93d-aa832984f729.share.connect.posit.cloud/){target="_blank"}
+  - [**HW 4
+    Instructions**](https://01a0e9ca-474f-8b31-b93d-aa832984f729.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**HW4_Template.qmd**](https://drive.google.com/file/d/1DFE4VnAdDAmhqIKuSJictN7Ilk6bIZRw/view?usp=sharing){target="_blank"}
+  - [**HW4_Template.qmd**](https://drive.google.com/file/d/1DFE4VnAdDAmhqIKuSJictN7Ilk6bIZRw/view?usp=sharing){target="_blank"}
 
-    -   [**DATA: HW4_data_files.zip - Unzip and save 3 data
-        files to `data`
-        folder**](https://drive.google.com/file/d/16lmXwBw3H9_9kiYjXzTupJOrMIN84eh1/view?usp=sharing){target="_blank"}
+  - [**DATA: HW4_data_files.zip - Unzip and save 3 data
+    files to `data`
+    folder**](https://drive.google.com/file/d/16lmXwBw3H9_9kiYjXzTupJOrMIN84eh1/view?usp=sharing){target="_blank"}
 
-    -   [**R Project - README
-        Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+  - [**R Project - README
+    Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
 
-    -   [**HW 4 Demo Video
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_yc5vl2le/){target="_blank"}
-
+  - [**HW 4 Demo Video
+    Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_yc5vl2le/){target="_blank"}
 
 <br>
 
