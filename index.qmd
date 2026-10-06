@@ -182,6 +182,18 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+- **Week 7: Time Series, Data Formats, Output Formats, Project Introduction**
+
+  -   [**Slides**](https://01a10e97-cabd-6254-35f8-5e2e820e653e.share.connect.posit.cloud/){target="_blank"}
+
+  -   [**Notes**](https://01a10ebb-e9e7-7434-187f-677452fa7e08.share.connect.posit.cloud/){target="_blank"}
+
+  -   [**Notes PDF**](https://drive.google.com/file/d/1M0POE7sdSIcB9CT7ZtSAjymCm63f6x-A/view?usp=sharing){target="_blank"}
+
+  -   [**Week 7 Zipped R Project to Download**](https://drive.google.com/file/d/1-4eMBxDAzWhsjrL2yXzylF6kfAFOuq4K/view?usp=sharing){target="_blank"}
+
+<br>
+
 - **Week 6: Functions, Reshaping. Cleaning, and Joining
   Data**
 
@@ -189,12 +201,11 @@ My User Name: **penelopepoolereisenbies685**
 
   - [**Notes**](https://01a0e966-470e-693c-0880-3b78f6e31b19.share.connect.posit.cloud/){target="_blank"}
 
-  - [**Notes
-    PDF**](https://drive.google.com/file/d/1kfeIWLu2A9PUOdEPxhQKQDsf6Q081zlh/view?usp=sharing){target="_blank"}
+  - [**Notes PDF**](https://drive.google.com/file/d/1kfeIWLu2A9PUOdEPxhQKQDsf6Q081zlh/view?usp=sharing){target="_blank"}
 
   - [**Week 6 Zipped R Project to
     Download**](https://drive.google.com/file/d/1LSv9HWSMFDj6duRf521CvqbOVHW5JnLt/view?usp=sharing){target="_blank"}
-    
+
   - **Video Recordings**
 
     - [**Lecture 11 - 2026-09-29 - 9:30
@@ -202,6 +213,8 @@ My User Name: **penelopepoolereisenbies685**
 
     - [**Lecture 11 - 2026-09-29 - 2:00
       PM**](https://video.syr.edu/media/t/1_g85vv1ed/416621362){target="_blank"}
+      
+    - [**Lecture 12 - 2026-10-01 - 2:00 PM**](https://video.syr.edu/media/t/1_d6g0om4u/416621362){target="_blank"}
 
 <br>
 
