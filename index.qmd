@@ -182,6 +182,21 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
+- **Weeks 8 and 9: Dashboard Project Proposal & Data
+  Cleaning**
+
+  - [**Slides**](https://01a13cd6-22f3-91d9-1c38-f179a0bc2352.share.connect.posit.cloud/){target="_blank"}
+
+  - [**Notes**](https://01a13cdd-f738-47a3-0014-f6a76077b7de.share.connect.posit.cloud/){target="_blank"}
+
+  - [**Notes PDF - Student
+    version**](https://drive.google.com/file/d/1Oyt1rTwk3v4thfsYGbDZRLOnCx_yLKAh/view?usp=sharing){target="_blank"}
+
+  - [**Weeks 8 and 9 Zipped R Project to
+    Download**](https://drive.google.com/file/d/10QrfWXwGM808rt_Ibb9Fw-gnC9tsMnts/view?usp=sharing){target="_blank"}
+
+<br>
+
 - **Week 7: Time Series, Data Formats, Output Formats,
   Project Introduction**
 
@@ -194,7 +209,7 @@ My User Name: **penelopepoolereisenbies685**
 
   - [**Week 7 Zipped R Project to
     Download**](https://drive.google.com/file/d/1-4eMBxDAzWhsjrL2yXzylF6kfAFOuq4K/view?usp=sharing){target="_blank"}
-    
+
   - **Video Recordings**
 
     - [**Lecture 13 - 2026-10-6 - 9:30
@@ -202,16 +217,19 @@ My User Name: **penelopepoolereisenbies685**
 
     - [**Lecture 13 - 2026-10-6 - 2:00
       PM**](https://video.syr.edu/media/t/1_kwtjsyic/416621362){target="_blank"}
-      
+
     - [**Lecture 14 - 2026-10-8 - 9:30
       AM**](https://video.syr.edu/media/t/1_38gjiebg/416621362){target="_blank"}
 
     - [**Lecture 14 - 2026-10-8 - 2:00
       PM**](https://video.syr.edu/media/t/1_5kjehkre/416621362){target="_blank"}
-      
-   - **Solution to In-class Exercise**
-   
-     - [**This text file**](https://drive.google.com/file/d/10U7s6j6AlUzTLJIZ-h1Cc0eM2LDN8jgB/view?usp=sharing){target="_blank"} includes extra formatting code for the dygraph, such as code to remove grid lines and add event lines.
+
+  - **Solution to In-class Exercise**
+
+    - [**This text
+      file**](https://drive.google.com/file/d/10U7s6j6AlUzTLJIZ-h1Cc0eM2LDN8jgB/view?usp=sharing){target="_blank"}
+      includes extra formatting code for the dygraph, such
+      as code to remove grid lines and add event lines.
 
 <br>
 
@@ -367,6 +385,23 @@ My User Name: **penelopepoolereisenbies685**
 # Homework Assignments
 
 ## Row
+
+- **Homework 5 - Part 1 - INCOMPLETE: Instructions and demo
+  videos will be posted AFTER we work through data
+  management skills together.**
+
+  - [**HW 5 - Part 1.zip (Zipped R
+    project)**](https://drive.google.com/file/d/10KFJvewY50mNdhqwykG0EsxwFaA4qSwJ/view?usp=sharing){target="_blank"}
+
+  - [**setup_data_mgmt_chunks.txt**](https://drive.google.com/file/d/10I2KeSl3ABhZ9rzbBdzMuaVyoT2UEiy-/view?usp=sharing){target="_blank"}
+
+  - [**R Project - README
+    Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
+
+  - [**Example Completed Dashboard with TV
+    Data**](https://01a13d3e-9bb4-f137-ee31-1be073b25ad8.share.connect.posit.cloud/){target="_blank"}
+
+<br>
 
 - **Homework 4:**
 
@@ -690,3 +725,34 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
   - I will be using GitHub as the sole platform in a course
     I am developing, **Interactive Exploratory Data
     Analysis**.
+
+# Dashboard Components
+
+**Proposal Examples**
+
+-   [Rough Draft Proposal
+    Example](https://drive.google.com/file/d/1PLaEhDbTvmJFB7UAHiSFC5h5dFgW-J0W/view?usp=sharing){target="_blank"}
+
+    -   This example is provided as guidance NOT a template
+        to follow.
+
+    -   Your group's rough draft proposal does not have to
+        look exactly like this or have this exact number of
+        questions or data sources.
+
+<br>
+
+-   [Final Proposal
+    Example](https://drive.google.com/file/d/1e_ugNG3E2ozmzTRqiLcCSm8RLyYBsZq9/view?usp=sharing){target="_blank"}
+
+    -   This group added their final proposal to their rough
+        draft text which is okay.
+
+    -   Adding your final proposal to your draft proposal is
+        not required, but if you choose to do this, don't
+        worry about the page limit suggestion.
+
+    -   Again, this example is provided as guidance, not a
+        template but **I do want the final proposal to be
+        explicit about what will be on each page and who is
+        responsible for each page.**
