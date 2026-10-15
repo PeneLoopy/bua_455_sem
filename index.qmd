@@ -393,7 +393,6 @@ My User Name: **penelopepoolereisenbies685**
   - [**HW 5 - Part 1.zip (Zipped R
     project)**](https://drive.google.com/file/d/10KFJvewY50mNdhqwykG0EsxwFaA4qSwJ/view?usp=sharing){target="_blank"}
 
-  - [**setup_data_mgmt_chunks.txt**](https://drive.google.com/file/d/10I2KeSl3ABhZ9rzbBdzMuaVyoT2UEiy-/view?usp=sharing){target="_blank"}
 
   - [**R Project - README
     Template.txt**](https://drive.google.com/file/d/1o0bmzrKnRqAPw6cD8WYvIUGB10Gq71iX/view?usp=sharing){target="_blank"}
@@ -730,29 +729,29 @@ Finance**](https://finance.yahoo.com/){target="_blank"}
 
 **Proposal Examples**
 
--   [Rough Draft Proposal
-    Example](https://drive.google.com/file/d/1PLaEhDbTvmJFB7UAHiSFC5h5dFgW-J0W/view?usp=sharing){target="_blank"}
+- [Rough Draft Proposal
+  Example](https://drive.google.com/file/d/1PLaEhDbTvmJFB7UAHiSFC5h5dFgW-J0W/view?usp=sharing){target="_blank"}
 
-    -   This example is provided as guidance NOT a template
-        to follow.
+  - This example is provided as guidance NOT a template to
+    follow.
 
-    -   Your group's rough draft proposal does not have to
-        look exactly like this or have this exact number of
-        questions or data sources.
+  - Your group's rough draft proposal does not have to look
+    exactly like this or have this exact number of questions
+    or data sources.
 
 <br>
 
--   [Final Proposal
-    Example](https://drive.google.com/file/d/1e_ugNG3E2ozmzTRqiLcCSm8RLyYBsZq9/view?usp=sharing){target="_blank"}
+- [Final Proposal
+  Example](https://drive.google.com/file/d/1e_ugNG3E2ozmzTRqiLcCSm8RLyYBsZq9/view?usp=sharing){target="_blank"}
 
-    -   This group added their final proposal to their rough
-        draft text which is okay.
+  - This group added their final proposal to their rough
+    draft text which is okay.
 
-    -   Adding your final proposal to your draft proposal is
-        not required, but if you choose to do this, don't
-        worry about the page limit suggestion.
+  - Adding your final proposal to your draft proposal is not
+    required, but if you choose to do this, don't worry
+    about the page limit suggestion.
 
-    -   Again, this example is provided as guidance, not a
-        template but **I do want the final proposal to be
-        explicit about what will be on each page and who is
-        responsible for each page.**
+  - Again, this example is provided as guidance, not a
+    template but **I do want the final proposal to be
+    explicit about what will be on each page and who is
+    responsible for each page.**
