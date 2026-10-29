@@ -182,20 +182,26 @@ My User Name: **penelopepoolereisenbies685**
 
 <br>
 
--   **Week 10 - Introduction To Geographic Data and Quiz 2 Information**
+- **Week 10 - Introduction To Geographic Data and Quiz 2
+  Information**
 
-    -   [**Slides**](https://01a17913-3833-917a-fd32-a8a73537bdd1.share.connect.posit.cloud/){target="_blank"}
+  - [**Slides**](https://01a17913-3833-917a-fd32-a8a73537bdd1.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**Notes**](https://01a17961-375e-5a4a-de58-a2777a5892f5.share.connect.posit.cloud/){target="_blank"}
+  - [**Notes**](https://01a17961-375e-5a4a-de58-a2777a5892f5.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**Notes
-        PDF**](https://drive.google.com/file/d/1G273IGw4Za8hUcp2galJ4-ehSZkXqScp/view?usp=sharing){target="_blank"}
+  - [**Notes
+    PDF**](https://drive.google.com/file/d/1G273IGw4Za8hUcp2galJ4-ehSZkXqScp/view?usp=sharing){target="_blank"}
 
-    -   [**Week 10 Zipped R Project to
-        Download**](https://drive.google.com/file/d/18pl9Fn50kEQCd4w7OJj7f8Uw6QcfQGmv/view?usp=sharing){target="_blank"}
+  - [**Week 10 Zipped R Project to
+    Download**](https://drive.google.com/file/d/18pl9Fn50kEQCd4w7OJj7f8Uw6QcfQGmv/view?usp=sharing){target="_blank"}
 
-    -   [**Example of Empty Dashboard
-        Template**](https://posit.cloud/content/11448615){target="_blank"}
+  - [**Example of Empty Dashboard
+    Template**](https://posit.cloud/content/11448615){target="_blank"}
+    
+  - **Video Recordings**
+
+    - [**Lecture 19 - 2026-10-27 - 2:00
+      AM**](https://video.syr.edu/media/t/1_3eia78py/416621362){target="_blank"}
 
 <br>
 
@@ -210,12 +216,14 @@ My User Name: **penelopepoolereisenbies685**
 
   - [**Week 9 Zipped R Project to
     Download**](https://drive.google.com/file/d/11TMXHOTLPeRAmcfb3LrYnqOqMCSDGJKa/view?usp=sharing){target="_blank"}
-    
+
   - **Video Recordings**
 
-    - [**Lecture 18 - 2026-10-22 - 9:30 AM**](https://video.syr.edu/media/t/1_992yi4p9/416621362){target="_blank"}
+    - [**Lecture 18 - 2026-10-22 - 9:30
+      AM**](https://video.syr.edu/media/t/1_992yi4p9/416621362){target="_blank"}
 
-    - [**Lecture 18 - 2026-10-22 - 2:00 PM**](https://video.syr.edu/media/t/1_diqmhfem/416621362){target="_blank"}
+    - [**Lecture 18 - 2026-10-22 - 2:00
+      PM**](https://video.syr.edu/media/t/1_diqmhfem/416621362){target="_blank"}
 
 <br>
 
