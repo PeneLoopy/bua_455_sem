@@ -186,20 +186,27 @@ My User Name: **penelopepoolereisenbies685**
 
 **This website was last updated on `r today_fmt`.**
 
--   **Week 12: - More on Geographic Data, Project Management, and Publishing a Dashboard**
+- **Week 12: - More on Geographic Data, Project Management,
+  and Publishing a Dashboard**
 
-    -   [**Slides**](https://01a1c2ce-f5ca-efaa-59aa-a026fb5d28cf.share.connect.posit.cloud/){target="_blank"}
+  - [**Slides**](https://01a1c2ce-f5ca-efaa-59aa-a026fb5d28cf.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**Notes**](https://01a1c2e0-91a9-8cd5-e62e-8aa36391f832.share.connect.posit.cloud/){target="_blank"}
+  - [**Notes**](https://01a1c2e0-91a9-8cd5-e62e-8aa36391f832.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**Notes PDF**](https://drive.google.com/file/d/1etNJeZZvRcuI3vU8s9Bge_JC7vGyEjmR/view?usp=sharing){target="_blank"}
+  - [**Notes
+    PDF**](https://drive.google.com/file/d/1etNJeZZvRcuI3vU8s9Bge_JC7vGyEjmR/view?usp=sharing){target="_blank"}
 
-    -   [**Week 12 Zipped R Project to Download**](https://drive.google.com/file/d/1dWnLo94zIqGgZdyVRSRr9zEo5RRdYQVC/view?usp=sharing){target="_blank"}
+  - [**Week 12 Zipped R Project to Download**](https://drive.google.com/file/d/1dWnLo94zIqGgZdyVRSRr9zEo5RRdYQVC/view?usp=sharing){target="_blank"} - Updated 11/11/26 at 12:30 PM
     
+  - **Video Recordings**
+
+    - [**Lecture 23 - 2026-11-11 - 2:00
+      AM**](https://video.syr.edu/media/t/1_pjn58ckg/416621362){target="_blank"}
 
 <br>
 
-- **Week 10 - Introduction To Geographic Data and Quiz 2 Information**
+- **Week 10 - Introduction To Geographic Data and Quiz 2
+  Information**
 
   - [**Slides**](https://01a17913-3833-917a-fd32-a8a73537bdd1.share.connect.posit.cloud/){target="_blank"}
 
@@ -467,28 +474,28 @@ My User Name: **penelopepoolereisenbies685**
 
 ## Row
 
--   **Homework 5 - Part 2:**
+- **Homework 5 - Part 2:**
 
-    -   [**HW 5 - Part 2 - Posit Cloud
-        Project**](https://posit.cloud/content/10125821){target="_blank"}
+  - [**HW 5 - Part 2 - Posit Cloud
+    Project**](https://posit.cloud/content/10125821){target="_blank"}
 
-    -   [**HW 5 - Part 2
-        Instructions**](https://01a1c2bc-c976-1c6a-8088-d3d50a2e5ed6.share.connect.posit.cloud/){target="_blank"}
+  - [**HW 5 - Part 2
+    Instructions**](https://01a1c2bc-c976-1c6a-8088-d3d50a2e5ed6.share.connect.posit.cloud/){target="_blank"}
 
-    -   [**HW 5 - Part 2 - Text Files.zip (Upload Zipped
-        folder of 4 text files to project
-        folder.)**](https://drive.google.com/file/d/1dai8SJ2ZUhOYK_cU2I9rBXYeUaWrEzoR/view?usp=sharing){target="_blank"}
+  - [**HW 5 - Part 2 - Text Files.zip (Upload Zipped folder
+    of 4 text files to project
+    folder.)**](https://drive.google.com/file/d/1dai8SJ2ZUhOYK_cU2I9rBXYeUaWrEzoR/view?usp=sharing){target="_blank"}
 
-    -   [**HW 5 - Part 2 - NewData.zip (Upload Zipped folder
-        of two `.csv` files to `data`
-        folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
+  - [**HW 5 - Part 2 - NewData.zip (Upload Zipped folder of
+    two `.csv` files to `data`
+    folder.)**](https://drive.google.com/file/d/1deMa-iYzNMpS8zb0wKEdBBU21b9r73FG/view?usp=sharing){target="_blank"}
 
-    -   [**HW5_Pt2_Page1_Graphic.png (Upload `.png` file to
-        `img`
-        folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
+  - [**HW5_Pt2_Page1_Graphic.png (Upload `.png` file to
+    `img`
+    folder.)**](https://drive.google.com/file/d/1dik2at2zddcbFjIZqbyCE2lu4KmzPmuE/view?usp=sharing){target="_blank"}
 
-    -   [**HW 5 - Part 2 - Demo Video Playlist
-        Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_mf93jpe8/){target="_blank"}
+  - [**HW 5 - Part 2 - Demo Video Playlist
+    Playlist**](https://video.syr.edu/playlist/dedicated/353201892/1_mf93jpe8/){target="_blank"}
 
 <br>
 
