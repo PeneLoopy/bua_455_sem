@@ -194,16 +194,19 @@ My User Name: **penelopepoolereisenbies685**
 
   - [**Notes**](https://01a1e621-c773-40ad-1cee-96bdf90a0d5c.share.connect.posit.cloud/){target="_blank"}
   
-  - [**BONUS: R Tables Guidance**](https://01a1e62e-d210-5f66-28f4-b7299df45075.share.connect.posit.cloud/){target="_blank"}
-
   - [**Notes PDF**](https://drive.google.com/file/d/1f_rdByyqeCjnYqi9ApXCmCR5Vew42NLt/view?usp=sharing){target="_blank"}
 
   - [**Week 13 Zipped R Project to Download**](https://drive.google.com/file/d/1e-23RYM81c5JxOU817tgSgliZrhR1fBV/view?usp=sharing){target="_blank"} 
+  
+  - [**BONUS: R Tables Guidance**](https://01a1e62e-d210-5f66-28f4-b7299df45075.share.connect.posit.cloud/){target="_blank"}
+  
+  - [**BONUS: Diamonds FlexTable Example**](https://01a1f038-3d5b-5304-2da2-5fa990ddbe3c.share.connect.posit.cloud/){target="_blank"}
+  
+  - [**BONUS: Diamonds FlexTable Example Zipped R Project**](https://drive.google.com/file/d/1Z9TfVCqZ-5fJ7g2vcHFY8MHLBqnnOx50/view?usp=sharing){target="_blank"}
 
 <br>
 
-- **Week 12: - More on Geographic Data, Project Management,
-  and Publishing a Dashboard**
+- **Week 12: - More on Geographic Data, Project Management, and Publishing a Dashboard**
 
   - [**Slides**](https://01a1c2ce-f5ca-efaa-59aa-a026fb5d28cf.share.connect.posit.cloud/){target="_blank"}
 
